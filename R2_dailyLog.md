@@ -1,12 +1,11 @@
-### **No of #100DaysOfCode // Date**
+### **D1 #100DaysOfCode // 01012018**
 
 * **resources**  
-   * 1  
-   * 2  
-   * 3  
+   * The Complete JavaScript Course: lec67-72  
+   * Understanding ECMAScript 6: Introduction & Chapter One (Block Bindings)  
 * **learnings**  
-   1. a  
-   2. b  
-   3. c  
+   * Module Pattern for writing big projects (still using ES5)  
+   * Using IIFE's, creating an initialization function & setting up a proper data structure  
+   * Reading about the proper use of `let` & `const` & best practices  
 
-» *time spent*
+» *2h*
