@@ -17,7 +17,7 @@ Starting round2, I want to try it again: This repository serves as my digital Bu
 *Start date:* January 1st 2018
 
 #### Additional rules:  
-1. The main focus is code, but everything code related counts, as there is a lesson in every moment  
-2. I will log my progress daily & provide updates on my [Twitter account](https://twitter.com/KlaraMiffili)  
-3. I will provide the resoures I use in an extra file  
+1. The main focus is coding, but everything code related counts.  
+2. I will [log](https://github.com/Miffili/my100DaysOfCode/blob/master/R2_dailyLog.md) my progress daily & provide updates on my [Twitter account](https://twitter.com/KlaraMiffili).  
+3. I will provide the resoures I use in an extra file.  
 4. My health is my top priority, so if for whatever reason I'm going to need I break, I will take it. But I won't take more than two days off in a row or else the challange is lost. :)
