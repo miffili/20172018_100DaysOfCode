@@ -1,4 +1,4 @@
-### **D2 #100DaysOfCode // 01022018**
+### **D2 #100DaysOfCode // Jan022018**
 
 * **resources**  
    * Nature of Code: 1. Introduction/Overview
@@ -12,7 +12,7 @@
 
 » *2h*
 
-### **D1 #100DaysOfCode // 01012018**
+### **D1 #100DaysOfCode // Jan012018**
 
 * **resources**  
    * The Complete JavaScript Course: lec67-72  
