@@ -1,6 +1,6 @@
 ### **D3 #100DaysOfCode // Jan032018**
 
-* **resources & learnings**  
+1. **resources & learnings**  
   * The Complete JavaScript Course: lec 73-83  
     * more about working with the Module Pattern  
     * new method: `insertAdjacentHTML`  
