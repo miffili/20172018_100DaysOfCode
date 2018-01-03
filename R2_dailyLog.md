@@ -9,7 +9,8 @@
   * Better Unicode support, other string & RegExp changes  
   * Template Literals  
 * Finished the first section of Nature of Code, that I started yesterday  
-  * Perlin noise  
+  * Perlin noise
+  
 **coding**
 * more tinkering with the randomwalker :)
 
@@ -20,11 +21,12 @@
 **resources & learnings**  
 * Nature of Code: 1. Introduction/Overview  
   * Using Vectors in p5\*js  
-  * Building a physics engine in p5\*js  
+  * Building a physics engine in p5\*js
+  
 **coding**  
 * different variations of the randomwalker
-**proof**  
-  [Tweet](https://twitter.com/KlaraMiffili/status/948344930115686400)
+
+**see »** [Tweet](https://twitter.com/KlaraMiffili/status/948344930115686400)
 
 » *2h*
 
