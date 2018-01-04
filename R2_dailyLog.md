@@ -1,3 +1,26 @@
+### **D4 #100DaysOfCode // Jan042018**
+
+**resources & learnings**  
+* The Complete JavaScript Course: lec 84-91 **→ DONE!**  
+  * creating an own `forEach` function for a nodeList  
+  * what the architecture of a big project looks like  
+* The Coding Train (p5*js) | Playlist: 13. What is Perlin Noise  
+  * what's Perlin noise  
+  * noise vs random  
+  * 1D Perlin noise graph  
+  * 2D Perlin Noise  
+  * noiseDetail()  
+* Understanding ECMAScript 6 | III: Functions  
+  * tba
+
+**coding**  
+* explored the world of randomwalkers with Perlin noise some more
+
+**see »** [Random Walker No. I](https://codepen.io/miffili/full/xpXqOW/)
+
+» *4h +*
+
+
 ### **D3 #100DaysOfCode // Jan032018**
 
 **resources & learnings**  
@@ -5,12 +28,12 @@
   * more about working with the Module Pattern  
   * new method: `insertAdjacentHTML`  
   * Event delegation, event bubbling, traversing the DOM  
-* Understanding ECMAScript 6 II: Strings & Regular Expressions  
+* Understanding ECMAScript 6 | II: Strings & Regular Expressions  
   * Better Unicode support, other string & RegExp changes  
   * Template Literals  
 * Finished the first section of Nature of Code, that I started yesterday  
   * Perlin noise
-  
+
 **coding**
 * more tinkering with the randomwalker :)
 
@@ -19,10 +42,10 @@
 ### **D2 #100DaysOfCode // Jan022018**
 
 **resources & learnings**  
-* Nature of Code: 1. Introduction/Overview  
+* Nature of Code | 1. Introduction/Overview  
   * Using Vectors in p5\*js  
   * Building a physics engine in p5\*js
-  
+
 **coding**  
 * different variations of the randomwalker
 
@@ -36,7 +59,7 @@
 * The Complete JavaScript Course: lec 67-72  
   * Module Pattern for writing big projects (still using ES5)  
   * Using IIFE's, creating an initialization function & setting up a proper data structure  
-* Understanding ECMAScript 6: Introduction & Chapter One (Block Bindings)  
+* Understanding ECMAScript 6 | Introduction & Chapter One (Block Bindings)  
   * Reading about the proper use of `let` & `const` & best practices
 
 » *2h*
