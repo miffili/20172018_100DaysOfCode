@@ -1,3 +1,14 @@
+### **D5 #100DaysOfCode // Jan052018**
+
+**coding**  
+* Pomodoro Clock for freeCodeCamp  
+  * note: I started this webapp (html & parts of CSS) in the last year, but refactored it basically :)  
+  * used my new knowledge of planning an app  
+  * almost used a random walker as background => definitely not appropriate  
+  * will clean up & publish code tomorrow
+
+» *8h*
+
 ### **D4 #100DaysOfCode // Jan042018**
 
 **resources & learnings**  
@@ -11,14 +22,14 @@
   * 2D Perlin Noise  
   * noiseDetail()  
 * Understanding ECMAScript 6 | III: Functions  
-  * tba
+  * default values in functions
 
 **coding**  
 * explored the world of randomwalkers with Perlin noise some more
 
 **see »** [Random Walker No. I](https://codepen.io/miffili/full/xpXqOW/)
 
-» *4h +*
+» *4h*
 
 
 ### **D3 #100DaysOfCode // Jan032018**
