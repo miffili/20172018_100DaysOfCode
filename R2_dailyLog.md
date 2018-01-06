@@ -1,3 +1,27 @@
+
+### **D6 #100DaysOfCode // Jan062018**
+
+**resources & learning**  
+* The Coding Train (p5*js) | Playlist: 13. What is Perlin Noise  
+  * 2D Perlin Noise  
+  * noiseDetail()  
+* The Coding Train (p5*js) | CC\#24 - Perlin noise flow field  
+  * physics engine  
+  * particles  
+  * most importantly: I still have a lot to learn, so I'm going to implement creative coding in my weekly goals again
+
+**coding**  
+* Pomodoro Clock for freeCodeCamp  
+  * Clean Up Code  
+  * Add progress bar  
+  * Adjust pointer look to indicate disabled buttons  
+  * Additional adjustments on UI
+  * fixed a bug after feedback on twitter
+
+* **see »** [Pomodoro Clock](https://codepen.io/miffili/full/mpqwpp/)
+
+» *6h*
+
 ### **D5 #100DaysOfCode // Jan052018**
 
 **coding**  
