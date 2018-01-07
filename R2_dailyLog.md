@@ -1,4 +1,16 @@
 
+### **D7 #100DaysOfCode // Jan072018**
+
+**coding**  
+* Tic Tac Toe for freeCodeCamp  
+  * Sketch out game flow  
+  * Set up HTML structure  
+  * Set up basic CSS: Layout & rough styling  
+  * Pre selection fonts
+  * thinking about using Perlin to draw Xs & Os in game field
+
+» *2.5h*
+
 ### **D6 #100DaysOfCode // Jan062018**
 
 **resources & learning**  
