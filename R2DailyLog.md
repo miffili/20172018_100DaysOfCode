@@ -1,3 +1,17 @@
+## Round 2 | Daily Log
+
+### **D8 #100DaysOfCode // Jan082018**
+
+**research**  
+* The Module Pattern  
+  * ["Mastering the Module Pattern" by Tedd Motto](https://toddmotto.com/mastering-the-module-pattern/#augmenting-modules)  
+  * [How Do You Structure JavaScript? ...](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/)
+
+**blog / podcast**  
+* basecs #2 on medium [Hexes and Other Magical Numbers](https://medium.com/basecs/hexs-and-other-magical-numbers-9785bc26b7ee)  
+* basecs on CodeNewbie.org [S1:E2 "What is encoding?"](https://www.codenewbie.org/basecs)
+
+» *1h*
 
 ### **D7 #100DaysOfCode // Jan072018**
 
