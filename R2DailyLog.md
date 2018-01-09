@@ -1,5 +1,22 @@
 ## Round 2 | Daily Log
 
+### **D9 #100DaysOfCode // Jan092018**
+
+**resources & learning**  
+* Nature of Code | 2. Vectors/Forces  
+  * Applying forces to objects, like wind & gravity  
+
+**coding**  
+* Xs in p5\*js for Tic Tac Toe -> no luck yet
+
+**preparations**  
+* sketching out ideas for Tic Tac Toe
+
+**podcast**  
+* basecs on CodeNewbie.org [S1:E3 "Hex Queen?"](https://www.codenewbie.org/basecs)
+
+» *4h*
+
 ### **D8 #100DaysOfCode // Jan082018**
 
 **research**  
