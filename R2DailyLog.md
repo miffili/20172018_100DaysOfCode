@@ -1,5 +1,18 @@
 ## Round 2 | Daily Log
 
+### **D10/11 #100DaysOfCode // Jan102018/Jan112018**
+
+**coding**  
+* Binary Timer inspired by the AGDQ2018 theme
+
+**preparations**  
+* Structure for Tic Tac Toe
+
+**podcast**  
+* basecs on CodeNewbie.org [S1:E4 "Hexes & Colors"](https://www.codenewbie.org/basecs)
+
+» *4h*
+
 ### **D9 #100DaysOfCode // Jan092018**
 
 **resources & learning**  
