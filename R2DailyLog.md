@@ -1,5 +1,19 @@
 ## Round 2 | Daily Log
 
+### **D12 #100DaysOfCode // Jan122018**
+
+**preparations**  
+* Notes for Advanced Algorithm Scripting  
+
+**coding**  
+* Solved 2 Advanced Algorithms: Map the Depris & Make a Person  
+* Started "Validate US Phone Numbers"  
+* Added responsive behavior to Binary Timer
+
+**see »** [AGDQ2018 Inspired Binary Timer](https://codepen.io/miffili/full/ppVVwQ/)
+
+» *5h*
+
 ### **D10/11 #100DaysOfCode // Jan102018/Jan112018**
 
 **preparations**  
