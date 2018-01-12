@@ -2,16 +2,18 @@
 
 ### **D10/11 #100DaysOfCode // Jan102018/Jan112018**
 
-**coding**  
-* Binary Timer inspired by the AGDQ2018 theme
-
 **preparations**  
 * Structure for Tic Tac Toe
 
 **podcast**  
 * basecs on CodeNewbie.org [S1:E4 "Hexes & Colors"](https://www.codenewbie.org/basecs)
 
-» *4h*
+**coding**  
+* Binary Timer inspired by the AGDQ2018 theme
+
+**see »** [AGDQ2018 Inspired Binary Timer](https://codepen.io/miffili/full/ppVVwQ/)
+
+» *7.5h*
 
 ### **D9 #100DaysOfCode // Jan092018**
 
