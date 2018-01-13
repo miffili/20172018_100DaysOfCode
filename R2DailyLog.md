@@ -1,5 +1,13 @@
 ## Round 2 | Daily Log
 
+### **D13 #100DaysOfCode // Jan132018**
+
+**coding**  
+* Solved 1 AAS: Inventory Update  
+* Design of TicTacToe game
+
+» *2.5h*
+
 ### **D12 #100DaysOfCode // Jan122018**
 
 **preparations**  
