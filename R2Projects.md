@@ -19,7 +19,7 @@ Assignments of different courses or platforms, which are coded mostly from scrat
 
 Projects I build based on my own ideas.
 
-* [Binary Timer inspired from the Stream Screen at AGDQ2018](https://codepen.io/miffili/full/ppVVwQ/) [CW2]
+* [Binary Timer inspired by the Stream Screen at AGDQ2018](https://codepen.io/miffili/full/ppVVwQ/) [CW2]
 
 **Snippets**
 
