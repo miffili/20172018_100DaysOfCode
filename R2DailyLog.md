@@ -1,5 +1,16 @@
 ## Round 2 | Daily Log
 
+### **D14 #100DaysOfCode // Jan142018**
+
+**coding**  
+* Solved 2 AASs: Record Collection & Validate US Phone Numbers
+
+**blog / podcast**  
+* basecs #3 & #4 on medium What's a Linked List, Anyway? [Part1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)[Part2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)  
+* [basecs on CodeNewbie.org](https://www.codenewbie.org/basecs) S1:E5 "Linked Lists in Your Apartment" & S1:E6 "A friendly intro to Big O Notation"
+
+» *3.5h*
+
 ### **D13 #100DaysOfCode // Jan132018**
 
 **coding**  
