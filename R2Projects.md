@@ -6,7 +6,7 @@
 
 Projects, that are part of a course or tutorial, which I just coded along while learning new things.
 
-* Budgety – an app, coded in The Complete JavaScript Course. Limited to the JS part.
+* Budgety – an app, coded in The Complete JavaScript Course. Limited to the JS part. [CW1]
 
 **Projects for Curriculums**
 
