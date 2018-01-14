@@ -1,5 +1,7 @@
 ## Round 2 | Projects Coded
 
+*sorted by category and within chronologically*
+
 **Code Alongs**
 
 Projects, that are part of a course or tutorial, which I just coded along while learning new things.
@@ -10,14 +12,14 @@ Projects, that are part of a course or tutorial, which I just coded along while 
 
 Assignments of different courses or platforms, which are coded mostly from scratch or build up on other code of mine.
 
-* [The Pomodoro Clock](https://codepen.io/miffili/full/mpqwpp/)  
+* [The Pomodoro Clock](https://codepen.io/miffili/full/mpqwpp/) [CW1]  
   » for assignment see [here](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
 
 **My Projects**
 
 Projects I build based on my own ideas.
 
-*soon to come* :wink:
+* [Binary Timer inspired from the Stream Screen at AGDQ2018](https://codepen.io/miffili/full/ppVVwQ/) [CW2]
 
 **Snippets**
 
