@@ -1,5 +1,19 @@
 ## Round 2 | Daily Log
 
+### **D15 #100DaysOfCode // Jan152018**
+
+**resources/learnings**  
+* Understanding ECMAScript 6 | III: Functions  
+  * Default parameters, unnamed parameters, Rest Parameters  
+* Mathematik für Informatiker  
+  * Basic Logic and Operators
+
+**blog / podcast**  
+* basecs #5 [Stacks and Overflows](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67)  
+* [basecs on CodeNewbie.org](https://www.codenewbie.org/basecs) S1:E7 "How do you make a stack overflow?" & S1:E8 "Stacks IRL"
+
+» *2h*
+
 ### **D14 #100DaysOfCode // Jan142018**
 
 **coding**  
