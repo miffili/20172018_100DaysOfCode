@@ -1,5 +1,14 @@
 ## Round 2 | Daily Log
 
+### **D16 #100DaysOfCode // Jan172018**
+
+**coding**  
+* worked a little on the design for the Tic Tac Toe game  
+* read about game strategies  
+* checked for the click event
+
+» *2.5h*
+
 ### **D15 #100DaysOfCode // Jan152018**
 
 **resources/learnings**  
