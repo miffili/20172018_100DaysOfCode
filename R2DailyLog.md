@@ -1,5 +1,15 @@
 ## Round 2 | Daily Log
 
+### **D17 #100DaysOfCode // Jan182018**
+
+**coding**  
+* TicTacToe:  
+  * even more styling  
+  * basic functionalities (select symbol, update stats field, resets)  
+* solved 1 ACC: Symmetric Difference  
+
+» *4h*
+
 ### **D16 #100DaysOfCode // Jan172018**
 
 **coding**  
