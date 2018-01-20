@@ -1,5 +1,15 @@
 ## Round 2 | Daily Log
 
+### **D18 #100DaysOfCode // Jan192018**
+
+**coding**  
+* TicTacToe:  
+  * basic gameplay (dumb cpu)  
+  * fixing some glitches  
+* solved 1 ACC: No Repeats Please  
+
+» *5h*
+
 ### **D17 #100DaysOfCode // Jan182018**
 
 **coding**  
