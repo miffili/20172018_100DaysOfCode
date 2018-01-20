@@ -1,5 +1,17 @@
 ## Round 2 | Daily Log
 
+### **D19 #100DaysOfCode // Jan202018**
+
+**coding**  
+* TicTacToe:  
+  * worked on advanced cpu -> mixmax caused knots in my brain :)  
+* ASS: Pairwise:  
+  * wanted to use reduce() like suggested -> couldn't grasp it
+
+
+
+» *3.5h*
+
 ### **D18 #100DaysOfCode // Jan192018**
 
 **coding**  
