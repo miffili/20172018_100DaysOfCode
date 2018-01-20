@@ -3,19 +3,20 @@
 ### **D19 #100DaysOfCode // Jan202018**
 
 **coding**  
-* TicTacToe:  
+* TicTacToe  
   * worked on advanced cpu -> mixmax caused knots in my brain :)  
-* ASS: Pairwise:  
+* ASS: Pairwise  
   * wanted to use reduce() like suggested -> couldn't grasp it
 
-
+Today, all day, my brain was like...  
+![Minion saying Whaaaaaaaaaat!?](https://media.giphy.com/media/puPeyz4SOYEKY/giphy.gif "...whaaaaaat!?")
 
 » *3.5h*
 
 ### **D18 #100DaysOfCode // Jan192018**
 
 **coding**  
-* TicTacToe:  
+* TicTacToe  
   * basic gameplay (dumb cpu)  
   * fixing some glitches  
 * solved 1 ACC: No Repeats Please  
@@ -25,7 +26,7 @@
 ### **D17 #100DaysOfCode // Jan182018**
 
 **coding**  
-* TicTacToe:  
+* TicTacToe  
   * even more styling  
   * basic functionalities (select symbol, update stats field, resets)  
 * solved 1 ACC: Symmetric Difference  
