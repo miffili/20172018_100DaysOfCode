@@ -1,5 +1,18 @@
 ## Round 2 | Daily Log
 
+### **D20 #100DaysOfCode // Jan212018**
+
+**coding**  
+* TicTacToe  
+  * try to wrap my head around the min max algorithm, didn't work  
+  * because it kinda frustrates me, I will put it on hold for the moment & take care of other projects on my list
+
+» on a side note: got sick over night.
+
+> "One of the best programming skills you can have is knowing when to walk away for a while." - Oscar Godson
+
+» *1.5h*
+
 ### **D19 #100DaysOfCode // Jan202018**
 
 **coding**  
