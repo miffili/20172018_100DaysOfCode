@@ -3,7 +3,7 @@
 ### **D22 #100DaysOfCode // Jan232018**
 
 **coding**  
-* AAS: refactored Symmetric Difference  
+* AAS: refactor Symmetric Difference  
 * Advanced Projects: Simon Game  
   * sketch out layout & project plan  
   * add favicon, because priorities :blush:  
