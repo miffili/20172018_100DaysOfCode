@@ -21,8 +21,8 @@ Projects I build based on my own ideas.
 
 * [Binary Timer inspired by the Stream Screen at AGDQ2018](https://codepen.io/miffili/full/ppVVwQ/) [CW2]
 
-**Snippets**
+**Snippets/Scribbles**
 
-Little code snippets for components of UIs or websites.
+Little code snippets/scribbles for components of UIs or websites.
 
-*soon to come* :wink:
+* [Scribbles| Glowing Sphere](https://codepen.io/miffili/full/ZvZVrZ/)
