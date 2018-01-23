@@ -1,5 +1,19 @@
 ## Round 2 | Daily Log
 
+### **D21 #100DaysOfCode // Jan222018**
+
+**research**
+* Array.prototype.reduce()  
+  * tutorials on youtube:
+    * [JavaScript Array Reduce in 4 Minutes](https://www.youtube.com/watch?v=tsIAyUQc8Ig&index=1&list=PLOBpLcek_ueGTHrs6yti1KjpJANVEGCo_)  
+    * [Reduce basics - Part 3 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=Wl98eZpkp-c&index=2&list=PLOBpLcek_ueGTHrs6yti1KjpJANVEGCo_)  
+    * [Reduce Advanced - Part 4 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=1DMolJ2FrNY&index=3&list=PLOBpLcek_ueGTHrs6yti1KjpJANVEGCo_)  
+  * articles on medium
+    * [Understanding Array.prototype.reduce() and recursion using apple pie](https://medium.freecodecamp.org/understanding-array-prototype-reduce-and-recursion-using-apple-pie-f60cde58ea51)  
+    * [Reduce your fears about Array.reduce()](https://hackernoon.com/reduce-your-fears-about-array-reduce-629b334ab945)
+
+» *1.5h*
+
 ### **D20 #100DaysOfCode // Jan212018**
 
 **coding**  
