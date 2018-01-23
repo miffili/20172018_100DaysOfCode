@@ -1,10 +1,23 @@
 ## Round 2 | Daily Log
 
+### **D22 #100DaysOfCode // Jan232018**
+
+**coding**  
+* AAS: refactored Symmetric Difference  
+* Advanced Projects: Simon Game  
+  * sketch out layout & project plan  
+  * add favicon, because priorities :blush:  
+  * build HTML  
+* Scribble: Glowing Sphere  
+  » [Scribbles| Glowing Sphere](https://codepen.io/miffili/full/ZvZVrZ/)
+
+» *3h*
+
 ### **D21 #100DaysOfCode // Jan222018**
 
 **research**
 * Array.prototype.reduce()  
-  * tutorials on youtube:
+  * tutorials on youtube:  
     * [JavaScript Array Reduce in 4 Minutes](https://www.youtube.com/watch?v=tsIAyUQc8Ig&index=1&list=PLOBpLcek_ueGTHrs6yti1KjpJANVEGCo_)  
     * [Reduce basics - Part 3 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=Wl98eZpkp-c&index=2&list=PLOBpLcek_ueGTHrs6yti1KjpJANVEGCo_)  
     * [Reduce Advanced - Part 4 of Functional Programming in JavaScript](https://www.youtube.com/watch?v=1DMolJ2FrNY&index=3&list=PLOBpLcek_ueGTHrs6yti1KjpJANVEGCo_)  
@@ -32,7 +45,7 @@
 **coding**  
 * TicTacToe  
   * worked on advanced cpu -> mixmax caused knots in my brain :)  
-* ASS: Pairwise  
+* AAS: Pairwise  
   * wanted to use reduce() like suggested -> couldn't grasp it
 
 Today, all day, my brain was like...  
@@ -46,7 +59,7 @@ Today, all day, my brain was like...
 * TicTacToe  
   * basic gameplay (dumb cpu)  
   * fixing some glitches  
-* solved 1 ACC: No Repeats Please  
+* solved 1 AAS: No Repeats Please  
 
 » *5h*
 
@@ -56,7 +69,7 @@ Today, all day, my brain was like...
 * TicTacToe  
   * even more styling  
   * basic functionalities (select symbol, update stats field, resets)  
-* solved 1 ACC: Symmetric Difference  
+* solved 1 AAS: Symmetric Difference  
 
 » *4h*
 
