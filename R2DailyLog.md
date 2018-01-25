@@ -1,5 +1,14 @@
 ## Round 2 | Daily Log
 
+### **D24 #100DaysOfCode // Jan252018**
+
+**preparations**  
+* Simon Game  
+  * JS plan  
+  * searched sound files
+
+» *1.5h*
+
 ### **D23 #100DaysOfCode // Jan242018**
 
 **coding**  
