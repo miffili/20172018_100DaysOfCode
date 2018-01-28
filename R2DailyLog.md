@@ -1,5 +1,24 @@
 ## Round 2 | Daily Log
 
+### **D26 #100DaysOfCode // Jan272018**
+
+**research**  
+* Function methods  
+  * apply()  
+  * bind()  
+  * call()
+
+» *1h*
+
+### **D25 #100DaysOfCode // Jan262018**
+
+**preparations**  
+* Simon Game  
+  * CSS Animation  
+  * JS  ON/OFF Button incl. GlowSequences
+
+» *2h*
+
 ### **D24 #100DaysOfCode // Jan252018**
 
 **preparations**  
