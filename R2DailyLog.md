@@ -1,5 +1,17 @@
 ## Round 2 | Daily Log
 
+### **D27/28 #100DaysOfCode // Jan282018/Jan292018**
+
+**research**  
+* concept of recursive functions [again]
+
+**coding**
+* a lot of algorithms using recursion to get to the bottom of the topic  
+* TicTacToe
+  * finally got the minimax algorithm to work
+
+» *3h*
+
 ### **D26 #100DaysOfCode // Jan272018**
 
 **research**  
