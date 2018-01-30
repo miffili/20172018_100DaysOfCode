@@ -1,5 +1,16 @@
 ## Round 2 | Daily Log
 
+### **D29 #100DaysOfCode // Jan302018**
+
+**resources**  
+* started with [CSS GRID by Wes Bos](https://cssgrid.io/)
+
+**coding**
+* TicTacToe
+  * implemented gameplay
+
+» *1.5h*
+
 ### **D27/28 #100DaysOfCode // Jan282018/Jan292018**
 
 **research**  
