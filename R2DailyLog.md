@@ -1,5 +1,12 @@
 ## Round 2 | Daily Log
 
+### **D30 #100DaysOfCode // Jan312018**
+
+**resources**  
+* [CSS GRID by Wes Bos](https://cssgrid.io/)
+
+» *1h*
+
 ### **D29 #100DaysOfCode // Jan302018**
 
 **resources**  
