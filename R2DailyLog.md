@@ -1,16 +1,28 @@
 ## Round 2 | Daily Log
 
+### **D31 #100DaysOfCode // Feb012018**
+
+**resources**  
+* [CSS GRID by Wes Bos](https://cssgrid.io/): 05 - 10
+
+**designing**
+* LandingPage for my website (4h)
+  * learned hot to use Figma with the awesome tutorials by Scott Tolinski [Mastering Figma](https://www.youtube.com/watch?v=WFLRASMq_XY&list=PLLnpHn493BHFFqJTrBbx8trAsuI0U-16w)
+  * designed my landing page with Figma
+
+» *5h*
+
 ### **D30 #100DaysOfCode // Jan312018**
 
 **resources**  
-* [CSS GRID by Wes Bos](https://cssgrid.io/)
+* [CSS GRID by Wes Bos](https://cssgrid.io/): 01 - 05
 
 » *1h*
 
 ### **D29 #100DaysOfCode // Jan302018**
 
 **resources**  
-* started with [CSS GRID by Wes Bos](https://cssgrid.io/)
+* started with [CSS GRID by Wes Bos](https://cssgrid.io/): setup all resources
 
 **coding**
 * TicTacToe
