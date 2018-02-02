@@ -6,8 +6,8 @@
 * [CSS GRID by Wes Bos](https://cssgrid.io/): 11 - 13
 
 **other**
-* Learned how to use git cmd with [Try Git on codeschool](https://www.codeschool.com/courses/try-git)  
-* Pushed two of the fCC projects on GitHub with git cmd :innocent:
+* learned how to use git cmd with [Try Git on codeschool](https://www.codeschool.com/courses/try-git)  
+* pushed two of the fCC projects on GitHub with git cmd :innocent:
 
 » *3.5h*
 
