@@ -9,7 +9,7 @@
 * Learned how to use git cmd with [Try Git on codeschool](https://www.codeschool.com/courses/try-git)  
 * Pushed two of the fCC projects on GitHub with git cmd :innocent:
 
-» *5h*
+» *3.5h*
 
 ### **D31 #100DaysOfCode // Feb012018**
 
