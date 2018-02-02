@@ -1,5 +1,16 @@
 ## Round 2 | Daily Log
 
+### **D32 #100DaysOfCode // Feb022018**
+
+**resources**  
+* [CSS GRID by Wes Bos](https://cssgrid.io/): 11 - 13
+
+**other**
+* Learned how to use git cmd with [Try Git on codeschool](https://www.codeschool.com/courses/try-git)  
+* Pushed two of the fCC projects on GitHub with git cmd :innocent:
+
+» *5h*
+
 ### **D31 #100DaysOfCode // Feb012018**
 
 **resources**  
