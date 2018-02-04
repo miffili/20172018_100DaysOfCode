@@ -1,5 +1,29 @@
 ## Round 2 | Daily Log
 
+### **D34 #100DaysOfCode // Feb042018**
+
+**other**
+* feed all projects on github with  
+  * description of project  
+  * link to live preview  
+  * screenshot of user interface  
+* added the Binary Timer and a summary of the freeCodeCamp projects to my LinkedIn profile  
+* solved a messy problem with the redirecting of the github hosted website to my Strato hosted domain | well I managed to delete all connections for now  
+
+» today I put a lot of work in my profiles and this will work towards getting a job in programming, therefore it's code related :innocent:
+
+### **D33 #100DaysOfCode // Feb032018**
+
+**coding**
+* refactored the JS code a bit  
+* planned out all of the remaining steps on paper
+
+**other**
+* pushed all of the remaining projects on github  
+* refactored old code while doing so
+
+» *5h*
+
 ### **D32 #100DaysOfCode // Feb022018**
 
 **resources**  
