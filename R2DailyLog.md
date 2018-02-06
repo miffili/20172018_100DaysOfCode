@@ -1,5 +1,21 @@
 ## Round 2 | Daily Log
 
+### **D35/36 #100DaysOfCode // Feb052018/Feb062018**
+
+**other**  
+* added the Bubble Machine to LinkedIn  
+* added a portfolio on my Xing profile, with many projects, short descriptions & relevant links  
+* figured out branches, and that it's better to have a gh-page branch rather than adding `_config.yml` everywhere :innocent:
+
+**research**  
+* overview JavaScript frameworks
+  * Vue.js  
+  * React & React Native  
+  * Angular.js  
+  * Ember.js
+
+» now I'm happy with all of my professional profiles as well as my github profile :blush:
+
 ### **D34 #100DaysOfCode // Feb042018**
 
 **other**
