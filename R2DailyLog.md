@@ -1,5 +1,14 @@
 ## Round 2 | Daily Log
 
+### **D7 #100DaysOfCode // Feb072018**
+
+**coding**  
+* LandingPage of my portfolio  
+  * HTML  
+  * a lot of CSS
+
+» I can't wait to start the CSS Code of Jonas Schmedtmann. :blush: There are a lot of things, I still need to learn.
+
 ### **D35/36 #100DaysOfCode // Feb052018/Feb062018**
 
 **other**  
