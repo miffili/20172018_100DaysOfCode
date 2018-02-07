@@ -9,6 +9,8 @@
 
 » I can't wait to start the CSS Code of Jonas Schmedtmann. :blush: There are a lot of things, I still need to learn.
 
+![landing page of my portfolio](pics/landingpage.gif)
+
 ### **D35/36 #100DaysOfCode // Feb052018/Feb062018**
 
 **other**  
