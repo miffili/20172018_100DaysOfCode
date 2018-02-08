@@ -1,6 +1,14 @@
 ## Round 2 | Daily Log
 
-### **D7 #100DaysOfCode // Feb072018**
+### **D38 #100DaysOfCode // Feb082018**
+
+**coding**  
+* LandingPage  
+  * add responsiveness
+
+» *1.5h*
+
+### **D37 #100DaysOfCode // Feb072018**
 
 **coding**  
 * LandingPage of my portfolio  
@@ -10,6 +18,8 @@
 » I can't wait to start the CSS Code of Jonas Schmedtmann. :blush: There are a lot of things, I still need to learn.
 
 ![landing page of my portfolio](pics/landingpage.gif)
+
+» *6h*
 
 ### **D35/36 #100DaysOfCode // Feb052018/Feb062018**
 
