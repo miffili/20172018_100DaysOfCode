@@ -1,5 +1,17 @@
 ## Round 2 | Daily Log
 
+### **D39 #100DaysOfCode // Feb092018**
+
+**coding**  
+* LandingPage  
+  * finishing touches (correct width on all devices & cleaning code)  
+* TicTacToe  
+  * add Game Over display + functionalities  
+  * add "thinking time" to cpu move  
+  * add random first move
+
+» *5.5h*
+
 ### **D38 #100DaysOfCode // Feb082018**
 
 **coding**  
