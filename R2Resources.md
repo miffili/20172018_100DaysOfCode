@@ -18,8 +18,8 @@ This file is a list of every resource, I work on in Round 2 of #100DaysOfCode. T
 
 ### Books
 
-* :octocat: [Understanding ECMAScript 6 by Nicholas C. Zakas](https://github.com/nzakas/understandinges6)  
-* :octocat: [Mathematik für Informatiker Band 1 by G. Teschl & S. Teschl](http://tiny.cc/a840py)
+* [Understanding ECMAScript 6 by Nicholas C. Zakas](https://github.com/nzakas/understandinges6)  
+* [Mathematik für Informatiker Band 1 by G. Teschl & S. Teschl](http://tiny.cc/a840py)
 
 ### Blogs
 
