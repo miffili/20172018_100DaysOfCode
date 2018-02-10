@@ -1,5 +1,22 @@
 ## Round 2 | Daily Log
 
+### **D40 #100DaysOfCode // Feb102018**
+
+**resources/learnings**  
+* [CSS GRID by Wes Bos](https://cssgrid.io/): 14 - 18  
+  * `grid-template-areas`  
+  * naming lines in CSS grid  
+  * `grid-auto-flow: dense;`  
+  * CSS grid alignment & centering  
+  * re-ordering items
+
+**coding**   
+* TicTacToe  
+  * refactor all functions & clean up code  
+  * add visual elements to gameplay/current turn
+
+» *2.5h*
+
 ### **D39 #100DaysOfCode // Feb092018**
 
 **coding**  
@@ -26,8 +43,6 @@
 * LandingPage of my portfolio  
   * HTML  
   * a lot of CSS
-
-» I can't wait to start the CSS Code of Jonas Schmedtmann. :blush: There are a lot of things, I still need to learn.
 
 ![landing page of my portfolio](pics/landingpage.gif)
 
@@ -64,7 +79,7 @@
 ### **D33 #100DaysOfCode // Feb032018**
 
 **coding**
-* refactored the JS code a bit  
+* refactored JS code a bit  
 * planned out all of the remaining steps on paper
 
 **other**
@@ -75,8 +90,11 @@
 
 ### **D32 #100DaysOfCode // Feb022018**
 
-**resources**  
-* [CSS GRID by Wes Bos](https://cssgrid.io/): 11 - 13
+**resources/learnings**  
+* [CSS GRID by Wes Bos](https://cssgrid.io/): 11 - 13  
+  * spanning & placing  
+  * `auto-fit` & `auto-fill`  
+  * `minmax()`  
 
 **other**
 * learned how to use git cmd with [Try Git on codeschool](https://www.codeschool.com/courses/try-git)  
@@ -86,8 +104,13 @@
 
 ### **D31 #100DaysOfCode // Feb012018**
 
-**resources**  
-* [CSS GRID by Wes Bos](https://cssgrid.io/): 05 - 10
+**resources/learnings**  
+* [CSS GRID by Wes Bos](https://cssgrid.io/): 05 - 10  
+  * implicit & explicit tracks again  
+  * `grid-auto-flow`  
+  * sizing track  
+  * `repeat()`  
+  * sizing & placing items
 
 **designing**
 * LandingPage for my website (4h)
@@ -98,8 +121,11 @@
 
 ### **D30 #100DaysOfCode // Jan312018**
 
-**resources**  
-* [CSS GRID by Wes Bos](https://cssgrid.io/): 01 - 05
+**resources/learnings**  
+* [CSS GRID by Wes Bos](https://cssgrid.io/): 02 - 05  
+  * CSS grid fundamentals  
+  * CSS grid dev tools  
+  * implicit & explicit tracks
 
 » *1h*
 
@@ -268,7 +294,7 @@ Today, all day, my brain was like...
 ### **D14 #100DaysOfCode // Jan142018**
 
 **coding**  
-* Solved 2 AASs: Record Collection & Validate US Phone Numbers
+* solved 2 AASs: Record Collection & Validate US Phone Numbers
 
 **blog / podcast**  
 * basecs #3 & #4 on medium What's a Linked List, Anyway? [Part1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)[Part2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)  
@@ -279,20 +305,20 @@ Today, all day, my brain was like...
 ### **D13 #100DaysOfCode // Jan132018**
 
 **coding**  
-* Solved 1 AAS: Inventory Update  
-* Design of TicTacToe game
+* solved 1 AAS: Inventory Update  
+* design of TicTacToe game
 
 » *2.5h*
 
 ### **D12 #100DaysOfCode // Jan122018**
 
 **preparations**  
-* Notes for Advanced Algorithm Scripting  
+* notes for Advanced Algorithm Scripting  
 
 **coding**  
-* Solved 2 Advanced Algorithms: Map the Depris & Make a Person  
-* Started "Validate US Phone Numbers"  
-* Added responsive behavior to Binary Timer
+* solved 2 Advanced Algorithms: Map the Depris & Make a Person  
+* started "Validate US Phone Numbers"  
+* added responsive behavior to Binary Timer
 
 **see »** [AGDQ2018 Inspired Binary Timer](https://codepen.io/miffili/full/ppVVwQ/)
 
@@ -317,13 +343,13 @@ Today, all day, my brain was like...
 
 **resources & learning**  
 * Nature of Code | 2. Vectors/Forces  
-  * Applying forces to objects, like wind & gravity  
+  * applying forces to objects, like wind & gravity  
 
 **coding**  
 * Xs in p5\*js for Tic Tac Toe -> no luck yet
 
 **preparations**  
-* sketching out ideas for Tic Tac Toe
+* sketched out ideas for Tic Tac Toe
 
 **podcast**  
 * basecs on CodeNewbie.org [S1:E3 "Hex Queen?"](https://www.codenewbie.org/basecs)
@@ -347,10 +373,10 @@ Today, all day, my brain was like...
 
 **coding**  
 * Tic Tac Toe for freeCodeCamp  
-  * Sketch out game flow  
-  * Set up HTML structure  
-  * Set up basic CSS: Layout & rough styling  
-  * Pre selection fonts
+  * sketched out game flow  
+  * set up HTML structure  
+  * set up basic CSS: Layout & rough styling  
+  * pre selection fonts
   * thinking about using Perlin to draw Xs & Os in game field
 
 » *2.5h*
@@ -368,10 +394,10 @@ Today, all day, my brain was like...
 
 **coding**  
 * Pomodoro Clock for freeCodeCamp  
-  * Clean Up Code  
-  * Add progress bar  
-  * Adjust pointer look to indicate disabled buttons  
-  * Additional adjustments on UI
+  * cleaned op code  
+  * added progress bar  
+  * adjusted pointer look to indicate disabled buttons  
+  * additional adjustments on UI
   * fixed a bug after feedback on twitter
 
 * **see »** [Pomodoro Clock](https://codepen.io/miffili/full/mpqwpp/)
@@ -384,8 +410,7 @@ Today, all day, my brain was like...
 * Pomodoro Clock for freeCodeCamp  
   * note: I started this webapp (html & parts of CSS) in the last year, but refactored it basically :)  
   * used my new knowledge of planning an app  
-  * almost used a random walker as background => definitely not appropriate  
-  * will clean up & publish code tomorrow
+  * almost used a random walker as background => definitely not appropriate
 
 » *8h*
 
@@ -426,7 +451,7 @@ Today, all day, my brain was like...
   * Perlin noise
 
 **coding**
-* more tinkering with the randomwalker :)
+* tinkered more with the randomwalker :)
 
 » *4h*
 
