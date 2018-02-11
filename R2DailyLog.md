@@ -1,5 +1,16 @@
 ## Round 2 | Daily Log
 
+### **D41 #100DaysOfCode // Feb112018**
+
+**coding**   
+* TicTacToe  
+  * added details  
+  * cleaned up code  
+  * add responsiveness  
+  * published project on [github](https://github.com/Miffili/freeCodeCamp/tree/gh-pages/FED-tictactoe) & [codepen](https://codepen.io/miffili/full/LQyyvo/)
+
+» *2.5h*
+
 ### **D40 #100DaysOfCode // Feb102018**
 
 **resources/learnings**  
