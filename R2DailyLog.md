@@ -14,7 +14,7 @@
   * altered the structure of the html for better JS handling  
   * worked on the glow effect of the "buttons"
 
-[![Glowing Bubble](pics/glowingbubble.gif) "Glowing Sphere on Codepen"](https://codepen.io/miffili/full/ZvZVrZ/)
+[![Glowing Bubble](pics/glowingbubble.gif)](https://codepen.io/miffili/full/ZvZVrZ/)
 
 » *5h*
 
