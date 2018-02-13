@@ -1,5 +1,35 @@
 ## Round 2 | Daily Log
 
+### **D43 #100DaysOfCode // Feb132018**
+
+**resources/learnings**  
+* The Web Developer Bootcamp  
+  * Backend Basics  
+  * The Command Line  
+  * Git & GitHub  
+  * JavaScript: The Tricky Stuff
+
+**coding**  
+* Simon Game  
+  * altered the structure of the html for better JS handling  
+  * worked on the glow effect of the "buttons"
+
+[![Glowing Bubble](pics/glowingbubble.gif) "Glowing Sphere on Codepen"](https://codepen.io/miffili/full/ZvZVrZ/)
+
+» *5h*
+
+### **D42 #100DaysOfCode // Feb122018**
+
+**research**  
+* sounds for Simon Game for freeCodeCamp  
+* reacquainted myself with my code from a few weeks ago for the project
+
+**other**  
+* created Repo for my website & pushed content from landing page to it  
+* connected it to my personal domain http://www.klarafleischmann.de
+
+» *2.5h*
+
 ### **D41 #100DaysOfCode // Feb112018**
 
 **coding**   
