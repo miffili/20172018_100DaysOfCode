@@ -1,5 +1,18 @@
 ## Round 2 | Daily Log
 
+### **D44 #100DaysOfCode // Feb142018**
+
+**resources/learnings**  
+* The Web Developer Bootcamp  
+  * Node JS  
+* CSS Grid by Wes Bos 19 & 20  
+  * nesting grids  
+  * responsive design using `auto-fit` & `minmax`  
+  * stacking grids  
+  * `object-fit`
+
+» *3h*
+
 ### **D43 #100DaysOfCode // Feb132018**
 
 **resources/learnings**  
@@ -25,7 +38,7 @@
 * reacquainted myself with my code from a few weeks ago for the project
 
 **other**  
-* created Repo for my website & pushed content from landing page to it  
+* created repo for my website & pushed content from landing page to it  
 * connected it to my personal domain http://www.klarafleischmann.de
 
 » *2.5h*
