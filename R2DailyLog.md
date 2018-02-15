@@ -1,5 +1,16 @@
 ## Round 2 | Daily Log
 
+### **D45 #100DaysOfCode // Feb152018**
+
+**resources/learnings**  
+* The Web Developer Bootcamp  
+  * Serverside frameworks » Express.js  
+* CSS Grid by Wes Bos 21 & 23  
+  * differences between flexbox & grid  
+  * usage of css variables
+
+» *2h*
+
 ### **D44 #100DaysOfCode // Feb142018**
 
 **resources/learnings**  
