@@ -1,5 +1,35 @@
 ## Round 2 | Daily Log
 
+### **D47-49 #100DaysOfCode // Feb172018 - Feb192018**
+
+**resources/learnings**  
+* The Web Developer Bootcamp: Intermediate Express  
+  * learned about .ejs files & coded templates  
+  * distinction between `<%= ... %>` & `<% ... %>` in ejs files  
+  * learned about public assets & connecting them properly  
+  * set up a post-route  
+* The Complete MySQL Developer Course: Creating Databases & Introduction to Queries  
+  * Create Database/Schema  
+  * Work with Tables  
+  * Inserting Rows  
+  * Select  
+  * Concat, Substring()  
+  * Limit, Order By, Distinct  
+  * Count, Like  
+  * Max, Min
+
+» *5h*
+
+### **D46 #100DaysOfCode // Feb162018**
+
+**resources/learnings**  
+* CSS Grid by Wes Bos 22, 25  
+  * recreated codepen  
+  * learned about usage of css variables  
+  * used CSS `grid-areas` to make a responsive website
+
+» *2h*
+
 ### **D45 #100DaysOfCode // Feb152018**
 
 **resources/learnings**  
