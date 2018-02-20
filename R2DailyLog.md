@@ -1,5 +1,15 @@
 ## Round 2 | Daily Log
 
+### **D50 #100DaysOfCode // Feb202018**
+
+**coding**  
+* Simon Game for freeCodeCamp  
+  * added sound to bubbles  
+  * gameplay of the computer almost done  
+  * started gameplay of the user
+
+» *4h*
+
 ### **D47-49 #100DaysOfCode // Feb172018 - Feb192018**
 
 **resources/learnings**  
