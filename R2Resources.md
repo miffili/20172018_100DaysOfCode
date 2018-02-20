@@ -12,7 +12,7 @@ This file is a list of every resource, I work on in Round 2 of #100DaysOfCode. T
 
 * :arrow_right_hook: :octocat: [freeCodeCamp - Front End Development Certificate](https://www.freecodecamp.org)  
   ███████████████████░ 95%  
-* :arrow_right_hook: :octocat: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+* :arrow_right_hook: :octocat: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)  
   ██████████████░░░░░░ 71%  
 * :arrow_right_hook: :end: [The Complete JavaScript Course](https://www.udemy.com/the-complete-javascript-course/) [Jan042018]  
 * [The Nature of Code II](https://www.kadenze.com/courses/the-nature-of-code-ii/info)  
