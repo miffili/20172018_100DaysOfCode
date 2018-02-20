@@ -11,10 +11,14 @@ This file is a list of every resource, I work on in Round 2 of #100DaysOfCode. T
 ### Online Courses
 
 * :arrow_right_hook: :octocat: [freeCodeCamp - Front End Development Certificate](https://www.freecodecamp.org)  
+  ███████████████████░ 95%  
 * :arrow_right_hook: :octocat: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+  ██████████████░░░░░░ 71%  
 * :arrow_right_hook: :end: [The Complete JavaScript Course](https://www.udemy.com/the-complete-javascript-course/) [Jan042018]  
 * [The Nature of Code II](https://www.kadenze.com/courses/the-nature-of-code-ii/info)  
-* :octocat: [CSS Grid. by Wes Bos](https://cssgrid.io/)
+* :end: [CSS Grid. by Wes Bos](https://cssgrid.io/) [Feb162018]  
+* :octocat: [The Complete MySQL Developer Course](https://www.udemy.com/the-complete-mysql-developer-course)  
+  █████░░░░░░░░░░░░░░░ 25%  
 
 ### Books
 
