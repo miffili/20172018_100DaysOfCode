@@ -1,5 +1,16 @@
 ## Round 2 | Daily Log
 
+### **D51 #100DaysOfCode // Feb212018**
+
+**coding**  
+* Simon Game for freeCodeCamp  
+  * wired start/reset Btn  
+  * wired strict Btn  
+  * finished gameplay  
+  * changed on/off sphere to animation sphere on codepen (two pens)
+
+» *5h*
+
 ### **D50 #100DaysOfCode // Feb202018**
 
 **coding**  
