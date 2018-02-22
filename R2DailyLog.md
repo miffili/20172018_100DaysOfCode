@@ -1,5 +1,22 @@
 ## Round 2 | Daily Log
 
+### **D52 #100DaysOfCode // Feb222018**
+
+**coding**  
+* Simon Game for freeCodeCamp  
+  * added glow animation to all bubbles & (almost) fixed a bug regarding multiple clicks on a bubble  
+  * added GameOver overlay & functionalities  
+  * made the whole web app responsive via the CSS function calc() :heart_eyes:  
+  * cleaned up the whole code
+
+**other**  
+* claimed the [Front End Development Certificate](https://www.freecodecamp.org/miffili) on freeCodeCamp
+
+[📺 Live Preview](https://miffili.github.io/freeCodeCamp/FED-simongame/ "live preview")  
+[Build a Simon Game project on GitHub](https://github.com/Miffili/freeCodeCamp/tree/gh-pages/FED-simongame "project")
+
+» *5h*
+
 ### **D51 #100DaysOfCode // Feb212018**
 
 **coding**  
