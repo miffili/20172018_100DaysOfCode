@@ -1,5 +1,24 @@
 ## Round 2 | Daily Log
 
+### **D53 #100DaysOfCode // Feb262018**
+
+**resources/learnings**  
+* The Web Developer Bootcamp: Working with APIs  
+  * Intro  
+  * JSON & XML  
+  * Making API Requests  
+  * Movie API App
+
+**other**  
+* Web Portfolio  
+  * researched  
+  * sketched out ideas  
+  * planned out content  
+
+» *2.5h*
+
+<!-- Took 3 days off, because I had to reflect & plan.  --> :innocent:
+
 ### **D52 #100DaysOfCode // Feb222018**
 
 **coding**  
