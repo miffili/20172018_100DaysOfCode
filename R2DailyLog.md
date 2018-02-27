@@ -1,5 +1,26 @@
 ## Round 2 | Daily Log
 
+### **D54 #100DaysOfCode // Feb272018**
+
+**resources/learnings**  
+* The Web Developer Bootcamp: Databases  
+  * Intro DB  
+  * Intro MongoDB  
+  * First Mongo Commands  
+  * Mongoose  
+* The Web Developer Bootcamp: RESTful Routing  
+  * Intro  
+  * 7 RESTful routes  
+  * Add every type of RESTful routes to a Blog Demo  
+  * other fun stuff: CRUD, sanitize user input, ...  
+* The Web Developer Bootcamp: Data Associations  
+  * Intro  
+  * Embedding data  
+  * Referencing data  
+  * module.exports
+
+» *5.5h*
+
 ### **D53 #100DaysOfCode // Feb262018**
 
 **resources/learnings**  
