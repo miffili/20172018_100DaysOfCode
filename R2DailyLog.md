@@ -1,5 +1,19 @@
 ## Round 2 | Daily Log
 
+### **D55 #100DaysOfCode // Feb282018**
+
+**resources/learnings**  
+* The Web Developer Bootcamp: YelpCamp  
+  * Basics (Initial Routes, NEW & CREATE, Layout, Styling)  
+  * Data Persistence (Mongoose, SHOW)  
+  * Comments (Seeding the DB, Comment Model, New & CREATE comments, Styling)  
+* The Web Developer Bootcamp: Authentication  
+  * Intro to Authentication  
+  * Tools to use  
+  * Simple Authentication Demo
+
+» *6h*
+
 ### **D54 #100DaysOfCode // Feb272018**
 
 **resources/learnings**  
