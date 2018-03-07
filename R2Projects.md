@@ -6,7 +6,8 @@
 
 Projects, that are part of a course or tutorial, which I just coded along while learning new things.
 
-* Budgety – an app, coded in The Complete JavaScript Course. Limited to the JS part. [CW1]
+* Budgety – an app, coded in The Complete JavaScript Course. Limited to the JS part. [CW1]  
+* YelpCamp - an app, coded in The Web Developer Bootcamp. (Tech: node, express, ejs, mongoose, et al.) [CW9]
 
 **Projects for Curriculums**
 
@@ -35,3 +36,5 @@ Little code snippets/scribbles for components of UIs or websites.
 
 * [Scribbles| Glowing Sphere](https://codepen.io/miffili/full/ZvZVrZ/)  
 * [Scribbles| Glowing Sphere Animated](https://codepen.io/miffili/pen/XZqQdK)  
+* [Scribbles| Lightbox](https://codepen.io/miffili/full/BYeMoB/)  
+* [Scribbles| Overlay w/ Mouse-Over-Effect](https://codepen.io/miffili/pen/VQoeNr)  
