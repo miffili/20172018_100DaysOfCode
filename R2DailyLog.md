@@ -1,5 +1,36 @@
 ## Round 2 | Daily Log
 
+### **D56-62 #100DaysOfCode // Mar012018 - Mar072018**
+
+**resources/learnings**  
+* The Web Developer Bootcamp: YelpCamp  
+  * Adding Authentication  
+  * Refactoring Routes  
+  * User Associations (Campgrounds, Comments)  
+  * Update & Destroy incl. Authorization (Campgrounds, Comments)  
+  * Refactoring Middleware  
+  * Flash Messages & "helpful errors"  
+  * Styling Landing Page & Login/SignUp Form  
+* UNDERSTANDING ECMASCRIPT 6: Functions  
+  * Capabilities of function constructor  
+  * the spread operator & the name property  
+  * dual purpose of functions  
+  * block-level functions & arrow functions  
+  * tail call optimization
+
+**coding**  
+* Scribble: [Lightbox](https://codepen.io/miffili/pen/BYeMoB "view pen on CodePen")  
+* Scribble: [Overlay w/ Mouse-Over-Effect](https://codepen.io/miffili/pen/VQoeNr "view pen in CodePen")  
+* Test: Grid Poster Layout (unfinished)  
+* cleanup freeCodeCamp FED project (weaterapp)
+
+**other**  
+* Web Portfolio  
+  * Content  
+  * Language decision :laughing:  
+
+» *16.5h*
+
 ### **D55 #100DaysOfCode // Feb282018**
 
 **resources/learnings**  
