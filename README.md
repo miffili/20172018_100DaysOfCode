@@ -4,10 +4,6 @@
 
 Starting round2, I want to try it again: This repository serves as my digital Bullet Journal. I'm aiming for a more slender form of the [original](https://github.com/Kallaway/100-days-of-code), but with all resources that I am using.
 
-## Round 1 of #100DaysOfCode
-
-*review will follow*
-
 ## Round2 of #100DaysOfcode | Rules
 
 ### Commitment
