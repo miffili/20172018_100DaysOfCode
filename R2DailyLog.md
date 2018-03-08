@@ -1,5 +1,16 @@
 ## Round 2 | Daily Log
 
+### **D63 #100DaysOfCode // Mar082018**
+
+**resources/learnings**  
+* The Web Developer Bootcamp: Deploying  
+  * Intro to Deploying  
+  * Deploying a Simple Demo App  
+  * Deploying YelpCamp  
+  * Environment Variables  
+
+» *1.5h*
+
 ### **D56-62 #100DaysOfCode // Mar012018 - Mar072018**
 
 **resources/learnings**  
