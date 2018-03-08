@@ -10,12 +10,12 @@ This file is a list of every resource, I work on in Round 2 of #100DaysOfCode. T
 
 ### Online Courses
 
-* :arrow_right_hook: :end: [freeCodeCamp - Front End Development Certificate](https://www.freecodecamp.org)  [Feb222018]
-  [Certificate of Accomplishment with Highest Distinction](https://www.freecodecamp.org/miffili/front-end-certification)  
+* :arrow_right_hook: :end: [freeCodeCamp - Front End Development Certificate](https://www.freecodecamp.org)  [Feb222018]  
+  [📃 Certificate of Accomplishment with Highest Distinction](https://www.freecodecamp.org/miffili/front-end-certification)  
 * :arrow_right_hook: :end: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) [Mar082018]  
-  [Certificate of Completion](https://www.udemy.com/certificate/UC-VY8UZEII/)  
+  [📃 Certificate of Completion](https://www.udemy.com/certificate/UC-VY8UZEII/)  
 * :arrow_right_hook: :end: [The Complete JavaScript Course](https://www.udemy.com/the-complete-javascript-course/) [Jan042018]  
-  [Certificate of Completion](https://www.udemy.com/certificate/UC-ZC9A7HEW/)  
+  [📃 Certificate of Completion](https://www.udemy.com/certificate/UC-ZC9A7HEW/)  
 * [The Nature of Code II](https://www.kadenze.com/courses/the-nature-of-code-ii/info)  
 * :end: [CSS Grid. by Wes Bos](https://cssgrid.io/) [Feb162018]  
 * [The Complete MySQL Developer Course](https://www.udemy.com/the-complete-mysql-developer-course)  
