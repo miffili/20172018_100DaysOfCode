@@ -1,5 +1,33 @@
 ## Round 2 | Daily Log
 
+### **D64-66 #100DaysOfCode // Mar092018 - Mar112018**
+
+**resources/learnings**  
+* UNDERSTANDING ECMASCRIPT 4: Expanded Object Functionality  
+  * Object Categories  
+  * Object Literal Syntax Extensions  
+  * New Methods  
+  * Duplicate Object Literal Properties  
+  * Own Property Enumerations Order  
+  * Enhancements for Prototypes  
+  * A Formal Method Definition  
+* UNDERSTANDING ECMASCRIPT 5: Destructuring for Easier Data Access  
+  * Why is destructuring useful?  
+  * Object Destructuring  
+  * Array Destructuring  
+  * Mixed Destructuring  
+  * Destructured Parameters
+
+**coding**
+* Personal Portfolio v2.0
+  * nav + basic styling  
+  * hero
+
+**other**
+* successfully installed Jekyll on my Windows System :wink:
+
+» *6h*
+
 ### **D63 #100DaysOfCode // Mar082018**
 
 **resources/learnings**  
@@ -22,7 +50,7 @@
   * Refactoring Middleware  
   * Flash Messages & "helpful errors"  
   * Styling Landing Page & Login/SignUp Form  
-* UNDERSTANDING ECMASCRIPT 6: Functions  
+* UNDERSTANDING ECMASCRIPT 3: Functions  
   * Capabilities of function constructor  
   * the spread operator & the name property  
   * dual purpose of functions  
