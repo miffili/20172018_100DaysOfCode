@@ -18,9 +18,10 @@
   * Mixed Destructuring  
   * Destructured Parameters
 
-**coding**
+**coding**  
 * Personal Portfolio v2.0
-  * nav + basic styling  
+  * basic boilerplate & favicon  
+  * nav & basic styling  
   * hero
 
 **other**
