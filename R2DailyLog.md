@@ -1,9 +1,21 @@
 ## Round 2 | Daily Log
 
+### **D67 #100DaysOfCode // Mar122018**
+
+**resources/learnings**  
+* started to read the [React.js docs](https://reactjs.org/docs)  
+  * learned about JSX, rendering elements, components & props
+
+**coding**  
+* Personal Portfolio v2.0  
+  * project section
+
+» *1h*
+
 ### **D64-66 #100DaysOfCode // Mar092018 - Mar112018**
 
 **resources/learnings**  
-* UNDERSTANDING ECMASCRIPT 4: Expanded Object Functionality  
+* UNDERSTANDING ECMASCRIPT 6 | IV Expanded Object Functionality  
   * Object Categories  
   * Object Literal Syntax Extensions  
   * New Methods  
@@ -11,7 +23,7 @@
   * Own Property Enumerations Order  
   * Enhancements for Prototypes  
   * A Formal Method Definition  
-* UNDERSTANDING ECMASCRIPT 5: Destructuring for Easier Data Access  
+* UNDERSTANDING ECMASCRIPT 6 | V Destructuring for Easier Data Access  
   * Why is destructuring useful?  
   * Object Destructuring  
   * Array Destructuring  
@@ -19,12 +31,12 @@
   * Destructured Parameters
 
 **coding**  
-* Personal Portfolio v2.0
+* Personal Portfolio v2.0  
   * basic boilerplate & favicon  
   * nav & basic styling  
   * hero
 
-**other**
+**other**  
 * successfully installed Jekyll on my Windows System :wink:
 
 » *6h*
@@ -51,7 +63,7 @@
   * Refactoring Middleware  
   * Flash Messages & "helpful errors"  
   * Styling Landing Page & Login/SignUp Form  
-* UNDERSTANDING ECMASCRIPT 3: Functions  
+* UNDERSTANDING ECMASCRIPT 6 | III Functions  
   * Capabilities of function constructor  
   * the spread operator & the name property  
   * dual purpose of functions  
@@ -538,7 +550,7 @@ Today, all day, my brain was like...
 ### **D15 #100DaysOfCode // Jan152018**
 
 **resources/learnings**  
-* Understanding ECMAScript 6 | III: Functions  
+* Understanding ECMAScript 6 | III Functions  
   * Default parameters, unnamed parameters, Rest Parameters  
 * Mathematik für Informatiker  
   * Basic Logic and Operators
@@ -684,7 +696,7 @@ Today, all day, my brain was like...
   * 1D Perlin noise graph  
   * 2D Perlin Noise  
   * noiseDetail()  
-* Understanding ECMAScript 6 | III: Functions  
+* Understanding ECMAScript 6 | III Functions  
   * default values in functions
 
 **coding**  
@@ -702,7 +714,7 @@ Today, all day, my brain was like...
   * more about working with the Module Pattern  
   * new method: `insertAdjacentHTML`  
   * Event delegation, event bubbling, traversing the DOM  
-* Understanding ECMAScript 6 | II: Strings & Regular Expressions  
+* Understanding ECMAScript 6 | II Strings & Regular Expressions  
   * Better Unicode support, other string & RegExp changes  
   * Template Literals  
 * Finished the first section of Nature of Code, that I started yesterday  
@@ -733,7 +745,7 @@ Today, all day, my brain was like...
 * The Complete JavaScript Course: lec 67-72  
   * Module Pattern for writing big projects (still using ES5)  
   * Using IIFE's, creating an initialization function & setting up a proper data structure  
-* Understanding ECMAScript 6 | Introduction & Chapter One (Block Bindings)  
+* Understanding ECMAScript 6 | Introduction & I Block Bindings  
   * Reading about the proper use of `let` & `const` & best practices
 
 » *2h*
