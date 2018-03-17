@@ -1,5 +1,22 @@
 ## Round 2 | Daily Log
 
+<!-- Took 3 days off, to fully enjoy my trip to Berlin & meeting with old friends  --> :innocent:
+
+### **D68 #100DaysOfCode // Mar132018**
+
+**resources/learnings**  
+* UNDERSTANDING ECMASCRIPT 6 | VI Symbols & Symbol Properties  
+  * Creating, Using & Sharing Symbols  
+  * Symbol Coercion  
+  * Retrieving Symbol Properties  
+  * Exposing Internal Operations with Well-Known Symbols  
+* UNDERSTANDING ECMASCRIPT 6 | VII Sets & Maps  
+  * Sets & Maps in ECMASCRIPT 5; Problems with Workarounds  
+  * Sets in ECMASCRIPT 6  
+* listened to [Syntax - Tasty Treats](https://syntax.fm/) Ep: Dang, that's handy! JavaScript Utility Libraries 🛠️
+
+» *2.5h*
+
 ### **D67 #100DaysOfCode // Mar122018**
 
 **resources/learnings**  
