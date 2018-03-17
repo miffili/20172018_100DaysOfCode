@@ -1,5 +1,17 @@
 ## Round 2 | Daily Log
 
+### **D69 #100DaysOfCode // Mar172018**
+
+**resources/learnings**  
+* UNDERSTANDING ECMASCRIPT 6 | VII Sets & Maps  
+  * Maps in ECMASCRIPT 6  
+* read the [React.js docs](https://reactjs.org/docs)  
+  * scanned over previously read material  
+  * learned about state & lifecycle, handling events, conditional rendering  
+* listened to [Syntax - Tasty Treats](https://syntax.fm/) Ep: Our favourite Productivity Hacks :fire:
+
+» *2h*
+
 <!-- Took 3 days off, to fully enjoy my trip to Berlin & meeting with old friends  --> :innocent:
 
 ### **D68 #100DaysOfCode // Mar132018**
