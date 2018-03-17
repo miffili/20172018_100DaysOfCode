@@ -12,7 +12,7 @@
 
 » *2h*
 
-<!-- Took 3 days off, to fully enjoy my trip to Berlin & meeting with old friends  --> :innocent:
+<-- Took 3 days off, to fully enjoy my trip to Berlin & meeting with old friends  --> :innocent:
 
 ### **D68 #100DaysOfCode // Mar132018**
 
@@ -164,7 +164,7 @@
 
 » *2.5h*
 
-<!-- Took 3 days off, because I had to reflect & plan.  --> :innocent:
+<-- Took 3 days off, because I had to reflect & plan.  --> :innocent:
 
 ### **D52 #100DaysOfCode // Feb222018**
 
