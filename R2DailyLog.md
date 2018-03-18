@@ -1,5 +1,20 @@
 ## Round 2 | Daily Log
 
+### **D70 #100DaysOfCode // Mar182018**
+
+**resources/learnings**  
+* UNDERSTANDING ECMASCRIPT 6 | VIII Iterators & Generators  
+  * What are Iterators? What are Generators?  
+  * Iterables & for-of Loops  
+  * Built-In Iterators  
+  * The Spread Operators & Nonarray Iterables  
+  * Advanced Iterator Functionality  
+  * Asynchronous Task Running  
+* went through the PHP tutorial on [w3schools.com](https://www.w3schools.com/php/default.asp)  
+* listened to [Syntax - Tasty Treats](https://syntax.fm/) Ep: CSS in JS 💅👩‍🎤💁🚒 (Drama Free!)
+
+» *3h*
+
 ### **D69 #100DaysOfCode // Mar172018**
 
 **resources/learnings**  
