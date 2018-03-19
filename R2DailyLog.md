@@ -1,5 +1,13 @@
 ## Round 2 | Daily Log
 
+### **D71 #100DaysOfCode // Mar192018**
+
+**resources/learnings**  
+* UNDERSTANDING ECMASCRIPT 6 | IX Introducing JavaScript Classes  
+* started Wes Bos' ES6 for Everyone
+
+» *1h*
+
 ### **D70 #100DaysOfCode // Mar182018**
 
 **resources/learnings**  
