@@ -1,10 +1,35 @@
 ## Round 2 | Daily Log
 
+### **D72 #100DaysOfCode // Mar202018**
+
+**resources/learnings**  
+* UNDERSTANDING ECMASCRIPT 6 | IX Introducing JavaScript Classes  
+  * Accessor Properties  
+  * Computed Member Names  
+  * Generator Methods  
+  * Static Members  
+  * Inheritance with Derived Classes  
+  * Using `new.target`in Class Constructors  
+* ES6 for Everyone  
+  * Function Improvements: Arrows & Default Arguments  
+* read the [React.js docs](https://reactjs.org/docs)  
+  * lists & keys, forms, lifting state up, composition vs inheritance, thinking in React
+
+**coding**  
+* did one kata on [codewars.com](https://www.codewars.com)
+
+» *3.5h*
+
 ### **D71 #100DaysOfCode // Mar192018**
 
 **resources/learnings**  
 * UNDERSTANDING ECMASCRIPT 6 | IX Introducing JavaScript Classes  
-* started Wes Bos' ES6 for Everyone
+  * Class-Like Structures in ECMAScript 5  
+  * Class Declarations  
+  * Class Expressions  
+  * Class as First-Class Citizens
+* started Wes Bos' [ES6 for Everyone](https://es6.io)  
+  * New Variables – Creation, Updating & Scoping
 
 » *1h*
 
