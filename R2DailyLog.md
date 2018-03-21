@@ -1,5 +1,26 @@
 ## Round 2 | Daily Log
 
+### **D73 #100DaysOfCode // Mar212018**
+
+**resources/learnings**  
+* [https://beta.freecodecamp.org/] » Frontend Libraries » React  
+  * learned to write JSX  
+  * created various forms of components (stateless functional \*, React \*)  
+  * learned how to render components to the DOM  
+  * wrote my first component from scratch  
+  * learned how to work with props  
+* UNDERSTANDING ECMASCRIPT 6 | X Improved Array Capabilities  
+  * Creating Arrays  
+  * New Methods on all Arrays  
+  * Typed Arrays  
+  * Similarities & Differences between Typed & Regular Arrays  
+* started [React for Beginners](https://reactforbeginners.com/)  
+  * learned how to think & understand React components  
+  * wrote HTML with JSX  
+  * wrote React components (in separate files)
+
+» *3.5h*
+
 ### **D72 #100DaysOfCode // Mar202018**
 
 **resources/learnings**  
