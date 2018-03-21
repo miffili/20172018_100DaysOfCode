@@ -20,7 +20,9 @@ This file is a list of every resource, I work on in Round 2 of #100DaysOfCode. T
 * :end: [CSS Grid. by Wes Bos](https://cssgrid.io/) [Feb162018]  
 * [The Complete MySQL Developer Course](https://www.udemy.com/the-complete-mysql-developer-course)  
   █████░░░░░░░░░░░░░░░ 25%  
-* :octocat: [ES6 for Everyone](https://es6.io)
+* :octocat: [ES6 for Everyone](https://es6.io)  
+* :octocat: [Section "Frontend Libraries » React" of freeCodeCamp Beta](hhtps://beta.freecodecamp.org)  
+* :octocat: [React for Beginners](https://reactforbeginners.com/)
 
 ### Books
 
