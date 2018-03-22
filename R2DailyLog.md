@@ -1,9 +1,32 @@
 ## Round 2 | Daily Log
 
+### **D74 #100DaysOfCode // Mar222018**
+
+**resources/learnings**  
+* [freeCodeCamp beta](https://beta.freecodecamp.org/en/challenges/react/create-a-simple-jsx-element) » Frontend Libraries » React  
+  * learned about stateful components  
+  * wrote a simple counter  
+  * created a controlled input & controlled form  
+* ES6 for Everyone  
+  * Template Strings  
+  * Additional String Improvements  
+* React for Beginners  
+  * learned about props, stateless functional components & routing  
+  * learned about events, refs & the `this` binding, handling events
+
+**note**
+
+Never forget the
+
+<a href="https://www.youtube.com/watch?v=M5d7vygUPoQ" target="_blank"><img src="https://i.ytimg.com/vi/M5d7vygUPoQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLADY95ZEZALg30lfuNjR6b1yAt9XQ"
+alt="this dot" width="240" height="180" border="10" /></a>
+
+» *3.5h*
+
 ### **D73 #100DaysOfCode // Mar212018**
 
 **resources/learnings**  
-* [https://beta.freecodecamp.org/] » Frontend Libraries » React  
+* [freeCodeCamp beta](https://beta.freecodecamp.org/en/challenges/react/create-a-simple-jsx-element) » Frontend Libraries » React  
   * learned to write JSX  
   * created various forms of components (stateless functional \*, React \*)  
   * learned how to render components to the DOM  
