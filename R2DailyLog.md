@@ -18,8 +18,8 @@
 
 Never forget the
 
-<a href="https://www.youtube.com/watch?v=M5d7vygUPoQ" target="_blank"><img src="https://i.ytimg.com/vi/M5d7vygUPoQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLADY95ZEZALg30lfuNjR6b1yAt9XQ"
-alt="this dot" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=M5d7vygUPoQ" title="this dot (coding train song) on youtube »"><img src="https://i.ytimg.com/vi/M5d7vygUPoQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLADY95ZEZALg30lfuNjR6b1yAt9XQ"
+alt="this dot song (coding train)" width="300" border="10" /></a>
 
 » *3.5h*
 
