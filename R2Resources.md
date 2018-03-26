@@ -21,7 +21,7 @@ This file is a list of every resource, I work on in Round 2 of #100DaysOfCode. T
 * [The Complete MySQL Developer Course](https://www.udemy.com/the-complete-mysql-developer-course)  
   █████░░░░░░░░░░░░░░░ 25%  
 * :octocat: [ES6 for Everyone](https://es6.io)  
-* :octocat: [freeCodeCamp Beta – Frontend Libraries » React](https://beta.freecodecamp.org/en/challenges/react/create-a-simple-jsx-element)  
+* :end: [freeCodeCamp Beta – Frontend Libraries » React](https://beta.freecodecamp.org/en/challenges/react/create-a-simple-jsx-element) [Mar232018]  
 * :octocat: [React for Beginners](https://reactforbeginners.com/)
 
 ### Books
