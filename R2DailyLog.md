@@ -1,5 +1,28 @@
 ## Round 2 | Daily Log
 
+### **D76-78 #100DaysOfCode // Mar242018 - Mar262018**
+
+**resources/learnings**  
+* ES6 for Everyone  
+  * Destructuring  
+  * Iterables & Loops  
+  * An Array of Array Improvements  
+* worked on my portfolio  
+* started a project for a befriended client  
+
+» *7.5h*
+
+### **D75 #100DaysOfCode // Mar232018**
+
+**resources/learnings**  
+* finished [freeCodeCamp beta](https://beta.freecodecamp.org/en/challenges/react/create-a-simple-jsx-element) » Frontend Libraries » React  
+  * learned about lifecycle methods  
+  * added event listeners  
+  * learned about inline styles, conditional rendering  
+  * used `Array.map()` & `Array.filter()` to dynamically render components  
+
+» *2.5h*
+
 ### **D74 #100DaysOfCode // Mar222018**
 
 **resources/learnings**  
