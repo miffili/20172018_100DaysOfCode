@@ -1,5 +1,15 @@
 ## Round 2 | Daily Log
 
+### **D80-81 #100DaysOfCode // Mar282018 - Mar292018**
+
+**other**
+* worked on client's project design  
+* sent it to her for first feedback  
+
+:blush: she loved it. ♥
+
+» *8h*
+
 ### **D79 #100DaysOfCode // Mar272018**
 
 **resources/learnings**  
