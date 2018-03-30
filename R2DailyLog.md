@@ -29,6 +29,8 @@
   * Destructuring  
   * Iterables & Loops  
   * An Array of Array Improvements  
+
+**other**  
 * worked on my portfolio  
 * started a project for a befriended client  
 
