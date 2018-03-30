@@ -1,5 +1,17 @@
 ## Round 2 | Daily Log
 
+### **D79 #100DaysOfCode // Mar272018**
+
+**resources/learnings**  
+* learned the template engine Pug with https://codepen.io/mimoduo/post/learn-pug-js-with-pugs  
+* learned Sass with https://codepen.io/sasstantrum/post/intro-to-sass    
+
+**coding**
+* my first pure CSS illustration | [Pug Puppy](https://codepen.io/miffili/pen/mxpeme)  
+  * using Pug & Sass
+
+» *3h*
+
 ### **D76-78 #100DaysOfCode // Mar242018 - Mar262018**
 
 **resources/learnings**  
