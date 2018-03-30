@@ -1,5 +1,23 @@
 ## Round 2 | Daily Log
 
+### **D82 #100DaysOfCode // Mar302018**
+
+**resources/learnings**  
+* React for Beginners  
+  * Understanding State  
+  * Loading data into state onClick  
+  * Displaying State with JSX  
+  * Updating State
+
+**coding/other**  
+* worked on my portfolio  
+  * reviewed previous work  
+  * found a way to implement React :innocent:
+  * updated header, footer & the menu  
+  * chose fonts  
+
+» *4h*
+
 ### **D80-81 #100DaysOfCode // Mar282018 - Mar292018**
 
 **other**
