@@ -1,5 +1,25 @@
 ## Round 2 | Daily Log
 
+### **D83-85 #100DaysOfCode // Mar312018 - Apr022018**
+
+**resources/learnings**  
+* Hello React - React Training for JavaScript Beginners  
+  * Section 1 | React Environment  
+  * basics of JSX  
+
+**coding/other**  
+* set up a little React Template on codepen  
+* checked out [https://emmet.io]  
+* collected inspiration for #30days30sites  
+* started & deleted 1.5h of work for the first project  
+* postponed #30days30sites  
+
+**sorting**  
+* reviewed Q1•2018  
+* planned out Q2•2018
+
+» *9.5h*
+
 ### **D82 #100DaysOfCode // Mar302018**
 
 **resources/learnings**  
