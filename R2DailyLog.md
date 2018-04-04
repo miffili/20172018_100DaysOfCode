@@ -1,5 +1,37 @@
 ## Round 2 | Daily Log
 
+### **D87 #100DaysOfCode // Apr042018**
+
+**other**
+* set up & deployed a React App to GitHub ➡ succeeded  💪
+  » https://www.klara-fleischmann.de/test-react-app
+
+» *1.5h*
+
+### **D86 #100DaysOfCode // Apr032018**
+
+**resources/learnings**  
+* React for Beginners  
+  * Displaying Order State with JSX  
+  * Persisting our State with Firebase  
+  * Persisting Order State with localStorage  
+  * Bi-directional Data Flow & Live State Editing  
+  * Removing Items from State  
+  * Animating React Components  
+  * Component Validation with PropTypes  
+  * Authentication  
+  * Building React for Production  
+  * Deploying  
+  * Ejecting from `create-react-app`
+* Hello React - React Training for JavaScript Beginners  
+  * Section 2 | Components in React  
+  * Section 3 | Styling in React
+
+**other**
+* Setup & deploy a React App to Github ➡ failed :innocent:
+
+» *6.5h*
+
 ### **D83-85 #100DaysOfCode // Mar312018 - Apr022018**
 
 **resources/learnings**  
