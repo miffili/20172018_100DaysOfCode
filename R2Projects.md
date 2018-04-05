@@ -38,3 +38,4 @@ Little code snippets/scribbles for components of UIs or websites.
 * [Scribbles| Glowing Sphere Animated](https://codepen.io/miffili/pen/XZqQdK)  
 * [Scribbles| Lightbox](https://codepen.io/miffili/full/BYeMoB/)  
 * [Scribbles| Overlay w/ Mouse-Over-Effect](https://codepen.io/miffili/pen/VQoeNr)  
+* [React Component | Social Media Card](https://codepen.io/miffili/pen/rdqBRQ)  
