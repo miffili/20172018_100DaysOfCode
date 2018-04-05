@@ -1,5 +1,29 @@
 ## Round 2 | Daily Log
 
+### **D88 #100DaysOfCode // Apr052018**
+
+**resources/learnings**  
+* Hello React - React Training for JavaScript Beginners  
+  * Section 4 | Capstone Project FriendLy  
+  * Section 5 | JavaScript Review - Objects  
+* re-watching React for Beginners  
+  * Building React for Production  
+  * Deploying  
+  * Ejecting from `create-react-app`
+
+**coding**  
+* simple [Social Media Card as Complex Component](https://codepen.io/miffili/pen/rdqBRQ)
+
+**other**  
+* worked on client's website (dog trainer)  
+* worked on my website  
+  * deciding whether or not I would use React in the portfolio section in the simplest form ever possible -> yes! :innocent:  
+  * mock up project component for portfolio section  
+* made a list of all JavaScript libs/frameworks/tools, etc. I want to explore in the future  
+* brainstormed ideas for React app(s)
+
+» *5h*
+
 ### **D87 #100DaysOfCode // Apr042018**
 
 **other**
