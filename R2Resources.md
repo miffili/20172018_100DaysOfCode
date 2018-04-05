@@ -22,7 +22,7 @@ This file is a list of every resource, I work on in Round 2 of #100DaysOfCode. T
   █████░░░░░░░░░░░░░░░ 25%  
 * :octocat: [ES6 for Everyone](https://es6.io)  
 * :end: [freeCodeCamp Beta – Frontend Libraries » React](https://beta.freecodecamp.org/en/challenges/react/create-a-simple-jsx-element) [Mar232018]  
-* :octocat: [React for Beginners](https://reactforbeginners.com/)  
+* :end: [React for Beginners](https://reactforbeginners.com/) [Apr032018]  
 * :octocat: [Hello React - React Training for JavaScript Beginners](https://www.udemy.com/hello-react/)
 
 ### Books
