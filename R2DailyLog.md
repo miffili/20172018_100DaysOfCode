@@ -1,5 +1,22 @@
 ## Round 2 | Daily Log
 
+### **D89 #100DaysOfCode // Apr062018**
+
+**resources/learnings**  
+* Hello React - React Training for JavaScript Beginners  
+  * Section 6 | Props  
+  * Section 7 | Functional Programming  
+
+**coding**  
+* [React Component | Social Media FriendLyList](https://codepen.io/miffili/pen/rdQVjG)
+
+**other**  
+* worked on client's website (dog trainer)  
+* sketched out two ideas for React Apps  
+* watched part of the Coding Train Live stream with noopkat 😍
+
+» *4h*
+
 ### **D88 #100DaysOfCode // Apr052018**
 
 **resources/learnings**  
