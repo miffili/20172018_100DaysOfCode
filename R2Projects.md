@@ -39,3 +39,4 @@ Little code snippets/scribbles for components of UIs or websites.
 * [Scribbles| Lightbox](https://codepen.io/miffili/full/BYeMoB/)  
 * [Scribbles| Overlay w/ Mouse-Over-Effect](https://codepen.io/miffili/pen/VQoeNr)  
 * [React Component | Social Media Card](https://codepen.io/miffili/pen/rdqBRQ)  
+* [React Component | Social Media FriendLyList](https://codepen.io/miffili/pen/rdQVjG)  
