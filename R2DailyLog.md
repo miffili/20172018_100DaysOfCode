@@ -1,5 +1,21 @@
 ## Round 2 | Daily Log
 
+### **D90 #100DaysOfCode // Apr072018**
+
+**resources/learnings**  
+* Hello React - React Training for JavaScript Beginners  
+  * Section 8 | Iterating Through Lists  
+  * Section 9 | Refactor FriendLy  
+  * Section 10 | Bonus
+
+**coding**  
+* refactored [React Component | Social Media FriendLyList](https://codepen.io/miffili/pen/rdQVjG)  
+
+**other**  
+* worked on client's website (dog trainer)  
+
+» *3h*
+
 ### **D89 #100DaysOfCode // Apr062018**
 
 **resources/learnings**  
