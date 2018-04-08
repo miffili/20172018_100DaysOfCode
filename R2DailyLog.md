@@ -1,5 +1,19 @@
 ## Round 2 | Daily Log
 
+### **D91 #100DaysOfCode // Apr082018**
+
+**resources/learnings**  
+* Hello React - React Training for JavaScript Beginners  
+  * Section 11 | React Events  
+  * Section 12 | This & Bind  
+  * Section 13 | State  
+  * Section 14 | Ajax Requests & Lifecycle Methods
+
+**coding**  
+  * initialized & deployed [ChuckyN](http://www.klarafleischmann.de/ChuckyN/), which is going to be a fun React App  
+
+» *5h*
+
 ### **D90 #100DaysOfCode // Apr072018**
 
 **resources/learnings**  
