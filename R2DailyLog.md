@@ -1,5 +1,15 @@
 ## Round 2 | Daily Log
 
+### **D92 #100DaysOfCode // Apr092018**
+
+**other**  
+* ChuckyN  
+  * sketched out coding plan  
+  * sketched out stylings
+* read about differences React vs Vue
+
+» *1h*
+
 ### **D91 #100DaysOfCode // Apr082018**
 
 **resources/learnings**  
