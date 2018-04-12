@@ -1,5 +1,21 @@
 ## Round 2 | Daily Log
 
+### **D93-95 #100DaysOfCode // Apr102018 - Apr122018**
+
+**coding**  
+* ChuckyN  
+  * set up components  
+  * researched API & queries  
+  * fetched data & displayed it  
+  * added field to choose number of fetched jokes  
+  * set up API request accordingly  
+
+**other**  
+* explored every item on my list of JS tools/libs/frameworks briefly  
+* worked on clients website  
+
+» *8.5h*
+
 ### **D92 #100DaysOfCode // Apr092018**
 
 **other**  
