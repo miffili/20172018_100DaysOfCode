@@ -1,5 +1,24 @@
 ## Round 2 | Daily Log
 
+### **D96 #100DaysOfCode // Apr132018**
+
+**coding**  
+* ChuckyN  
+  * added name changing functionality (input fields, states, handle function)  
+  * added "limit to dev" functionality (input checkbox, state, handle function)  
+  * added more & clear buttons at the bottom  
+  * styled whole app  
+  * wrote README.MD & pushed to github  
+  * deployed to github
+
+» [go to repo](https://github.com/Miffili/ChuckyN)  
+» [go to live view of project](https://miffili.github.io/ChuckyN/)
+
+**other**  
+* brainstormed new ideas for React.js
+
+» *6.5h*
+
 ### **D93-95 #100DaysOfCode // Apr102018 - Apr122018**
 
 **coding**  
