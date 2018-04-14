@@ -1,5 +1,19 @@
 ## Round 2 | Daily Log
 
+### **D97 #100DaysOfCode // Apr142018**
+
+**coding**  
+* ChuckyN  
+  * refactored code & put settings form in separate component  
+  * made settings form responsive  
+  * read about accessibility & tried to refactor styling, so that the web app is accessible through keyboard only navigation
+
+**other**  
+* redesigned personal portfolio  
+* researched jobs in Berlin
+
+» *6.5h*
+
 ### **D96 #100DaysOfCode // Apr132018**
 
 **coding**  
