@@ -30,8 +30,8 @@ Projects I build based on my own ideas.
 
 * [Binary Timer inspired by the Stream Screen at AGDQ2018](https://codepen.io/miffili/full/ppVVwQ/) [CW2]  
 * [Chuck-o-mat aka ChuckyN](https://github.com/Miffili/ChuckyN) [CW15]  
-  A web app using the API of [ICNDb.com](http://www.icndb.com/api/), build with React.js
-  » for latest deployed version visit: [https://miffili.github.io/ChuckyN/]
+  A web app using the API of [ICNDb.com](http://www.icndb.com/api/), build with React.js  
+  » for latest deployed version visit: https://miffili.github.io/ChuckyN/
 
 **Snippets/Scribbles**
 
