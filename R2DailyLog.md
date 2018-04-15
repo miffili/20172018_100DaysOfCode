@@ -1,5 +1,23 @@
 ## Round 2 | Daily Log
 
+### **D98 #100DaysOfCode // Apr152018**
+
+**coding**  
+* ChuckyN    
+  * made settings form responsive & allowed for keyboard only navigation  
+    (except Tweet function)  
+  * cleaned up code  
+  * added validation of components with PropTypes  
+* Website prep  
+  * [text clipping](https://codepen.io/miffili/pen/oqrrvL)
+
+**other**  
+* planned & sketched out second React Web App (React Recipes)  
+* worked on clients website (dog trainer)  
+* checked out Cassidy Williams' JavaScript & React for Developers
+
+» *4.5h*
+
 ### **D97 #100DaysOfCode // Apr142018**
 
 **coding**  
