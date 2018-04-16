@@ -1,5 +1,18 @@
 ## Round 2 | Daily Log
 
+### **D99 #100DaysOfCode // Apr162018**
+
+**coding**  
+* ChuckyN  
+  * refactored code after getting Karl's feedback  
+* Website prep  
+  * [text clipping II](https://codepen.io/miffili/pen/zWgJpd)
+
+**other**  
+* planned out website steps & mobile view
+
+» *5h*
+
 ### **D98 #100DaysOfCode // Apr152018**
 
 **coding**  
