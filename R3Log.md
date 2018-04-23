@@ -14,6 +14,7 @@
 * installed atom-prettier & familiarized with tool
 
 **thoughts**
+
 After struggling with different advanced CSS effects , I'm definitely putting this CSS course on my list for R3. 😇 But all in all, I really like how the redesign comes along. It's much more sophisticated & job hunt ready. And deciding to code a real nice mvp first, was a good call for my sanity. 😄  
 I can't wait to start a much more focused round & to continue with this journey.
 
