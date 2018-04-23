@@ -876,7 +876,7 @@ alt="this dot song (coding train)" width="300" border="10" /></a>
 * Simon Game
   * sounds & colors  
 
-![Basic styling of the Simon Game](https://raw.githubusercontent.com/Miffili/my100DaysOfCode/0ef7df4c4c191e770d8114b562ef897e59cee337/pics/20180124_SimonGame.png "Screenshot of current styling of the Simon Game")
+![Basic styling of the Simon Game](pics/20180124_SimonGame.png "Screenshot of current styling of the Simon Game")
 
 » *4h*
 
