@@ -6,7 +6,7 @@
 
 This round, I definitely want to set some focus points. so that every time I don't quite know, how to move forward I can come back to my bucket list.  
 In Round 1 it was all about learning everything, I could possibly find regarding frontend development. I quickly fell in love with JavaScript and all the possibilities it provided to build – interactive elements in the frontend, the power behind a lot of Markup & CSS preprocessors, tools, libraries that allowed me to draw/illustrate in the browser. And I loved the challenge of learning it.  
-Round 2 was somewhat focused on finishing the freeCodeCamp FrontEnd Certificate & get to know backend.(Which I did. 💁‍♀️) In the last weeks I started to learn React.js as my first framework, because I loved the simplicity of implementing it in any existing project & the relatively short but thorough docs (& I've already purchased a React course from Wes Bos 😋).
+Round 2 was somewhat focused on finishing the freeCodeCamp FrontEnd Certificate & get to know backend. (Which I did. 💁‍♀️) In the last weeks I started to learn React.js as my first framework, because I loved the simplicity of implementing it in any existing project & the relatively short but thorough docs (& I've already purchased a React course from Wes Bos 😋).
 
 So for this Round 3 I wanna focus on a few points:  
 
@@ -33,7 +33,7 @@ So for this Round 3 I wanna focus on a few points:
 - [ ] finish Understanding ECMAScript 6  
 - [ ] You don't know JS – Up & Going
 
-*If you think, that's a ton of things, I'm heading for. It probably is, but I'm not one to set reasonable goals.* 😇 *After all, having those over the top goals allows me to strive for so much & accomplish that much more than "cautiously" phrased ones ever would.*
+*If you think, that's a ton of things I'm heading for, you're probably right, but I'm not one to set reasonable goals.* 😇 *After all, having those "over the top goals" allows me to strive for so much & accomplish that much more than "cautiously" phrased ones ever would.*
 
 ## Rules
 
