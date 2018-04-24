@@ -11,7 +11,8 @@
   * added responsiveness
   * added navigation
 
-**thoughts**  
+**thoughts**
+
 Today I made some progress with my relaunch of the website, the basic styling & structure is done. It is, for the moment a MVP to launch & get going. So after the launch, I will continue to work on the website and maybe feed it some more content. 😊  
 Working on the Get Yo' Cook On React app, I have to admit, that individual styling with React-Bootstrap is a bit wonky. I may change the styling to match default styles of Bootstrap, e.g. a horizontal navbar at the top of the page rather than a vertical one, as I would like it. We'll see. 🙂
 
@@ -32,7 +33,8 @@ Working on the Get Yo' Cook On React app, I have to admit, that individual styli
 
 * installed atom-prettier & familiarized with tool
 
-**thoughts**  
+**thoughts**
+
 After struggling with different advanced CSS effects , I'm definitely putting this CSS course on my list for R3. 😇 But all in all, I really like how the redesign comes along. It's much more sophisticated & job hunt ready. And deciding to code a real nice mvp first, was a good call for my sanity. 😄  
 I can't wait to start a much more focused round & to continue with this journey.
 
