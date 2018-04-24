@@ -1,5 +1,7 @@
 ## Round 3 | Daily Log
 
+_Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
+
 ### **D2 #100DaysOfCode // Apr242018**
 
 **coding**
