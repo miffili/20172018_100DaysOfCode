@@ -2,6 +2,26 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D3 #100DaysOfCode // Apr252018**
+
+**coding**
+
+* Website
+  * added Get Yo' Cook On to portfolio section
+  * fixed stickey nav, so that it tucks itself on the top nice & smooth
+  * added smooth scroll via third party script
+  * updated the image sizes, unfortunately the background image is still a bit slow in loading
+  * finished logo & added it to nav bar & as favicon
+  * merged relaunch branch with master, pushed to GitHub, officially relaunched 🚀
+
+**thoughts**
+Today I launched the redesign of my website. It'll remain a work in progress as I got a lot more ideas for it. But for now, I'm pretty happy with it. (Although I always think, I'm designing for giants. The font-sizes are always pretty big. 😇)  
+To be honest, I'm kinda sad, because on an instance today, but it'll be all good again tomorrow.
+
+» _4h_
+
+![Elaine from Seinfeld dancing awkwardly alone on a dancefloor with several people looking at her.](https://i.giphy.com/media/xT1XGXgtj8PWdvCLFS/giphy.webp)
+
 ### **D2 #100DaysOfCode // Apr242018**
 
 **coding**
