@@ -2,6 +2,24 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D4 #100DaysOfCode // Apr262018**
+
+**resources**
+
+* started JavaScript & React for Developers in Udemy
+  * refreshed a lot of core concepts of JS & working with the DOM
+
+**other**
+
+* prepared job applications
+
+**thoughts**
+I needed a slow day today, so basically no todo just taking one step at a time. Feeling a bit overwhelmed at the moment.
+
+» _1.5h_
+
+![Elaine sitting at a desk with her head rested in her hands, looking overwhelmed.](https://i.giphy.com/media/3o7TKRwpns23QMNNiE/giphy.webp)
+
 ### **D3 #100DaysOfCode // Apr252018**
 
 **coding**
