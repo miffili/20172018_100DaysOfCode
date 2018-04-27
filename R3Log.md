@@ -14,10 +14,18 @@ _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
     * computational thinking
   * introduction to Scratch
 
-**thoughts**
-Oh, how I wished I had courses like that in my university time! Today I realized, how fun it can be to be self taught, to be free in the choices of courses & not bound to a certain syllabus. I get to choose with whom I learn, and get to put together a plan, that is both fun & educational.
+**other**
 
-» _1h_
+* woke up to a few warnings on all of my create-react-app applications hosted on GitHub
+* researched a bit, tested out fixes on the test-react repo
+* learned, that it wasn't a critical bug & a false alarm whatsoever
+* also learned about package.json as well as package-lock.json files
+
+**thoughts**
+Oh, how I wished I had courses like that in my university time! Today I realized, how fun it can be to be self taught, to be free in the choices of courses & not bound to a certain syllabus. I get to choose with whom I learn, and get to put together a plan, that is both fun & educational.  
+The warning on GitHub was a nice learning scenario, not only in keeping calm, but also in researching, reaching out to experienced developers & learning to comb through information.
+
+» _1.5h_
 
 ![George from Seinfeld dancing down the street overly joyful.](https://i.giphy.com/media/VylIAZssnvvxe/giphy.webp)
 
