@@ -27,7 +27,7 @@ The warning on GitHub was a nice learning scenario, not only in keeping calm, bu
 
 » _1.5h_
 
-![George from Seinfeld dancing down the street overly joyful.](https://i.giphy.com/media/VylIAZssnvvxe/giphy.webp)
+![Elaine, George & Seinfeld dancing synchronously](https://i.giphy.com/media/4Bjy0MwutiRji/giphy.webp)
 
 ### **D4 #100DaysOfCode // Apr262018**
 
