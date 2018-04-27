@@ -2,6 +2,25 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D5 #100DaysOfCode // Apr272018**
+
+**resources**
+
+* started CS50x on Week 0
+  * introduction to the course
+  * introduction to how computers work
+    * binary, ASCII, Unicode
+    * input -» [Algorithm] -» output
+    * computational thinking
+  * introduction to Scratch
+
+**thoughts**
+Oh, how I wished I had courses like that in my university time! Today I realized, how fun it can be to be self taught, to be free in the choices of courses & not bound to a certain syllabus. I get to choose with whom I learn, and get to put together a plan, that is both fun & educational.
+
+» _1h_
+
+![George from Seinfeld dancing down the street overly joyful.](https://i.giphy.com/media/VylIAZssnvvxe/giphy.webp)
+
 ### **D4 #100DaysOfCode // Apr262018**
 
 **resources**
