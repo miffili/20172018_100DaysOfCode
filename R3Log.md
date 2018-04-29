@@ -2,6 +2,14 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+---
+
+_Apr282018 – Apr292018_
+
+Had to take two days off, because I needed to focus on my mental health. Will be back tomorrow. ♥
+
+---
+
 ### **D5 #100DaysOfCode // Apr272018**
 
 **resources**
