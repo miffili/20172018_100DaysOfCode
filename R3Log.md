@@ -2,11 +2,38 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D6 #100DaysOfCode // May012018**
+
+**resources**
+
+* JavaScript & React for Developers
+  * refreshed concepts of the DOM, events & callbacks, AJAX, JSON as well as scope of variables, in particular of `this`
+  * refreshed concepts of ES6+ (var types, default values, destructing, literals, arrow functions)
+
+**coding**
+
+* codewars
+  * [Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8/train/javascript)
+
+**other**
+
+* Get Yo' Cook On
+  * redesigned whole applications
+  * sketched out user stories
+  * decided to use reactstrap (based on bootstrap v4) instead of react-bootstrap
+
+**thoughts**
+I'm back. 😄 After some necessary off days, I started slowly today. At the moment, the most exhausting part of coding is the thought of needing to get a job, because I'm running out of savings. And I'm struggling to decide whether I should already apply for coding jobs, and if so where or if I just try to find a non related job in this area & build up a savings cushion again. Or at least support myself. 🙊
+
+» _3h_
+
+![Pusheen the Cat sleeping in a pile of pillows, surrounded by a almost empty donut box, a console game pad & some an an open crisp bag.](https://i.giphy.com/media/JxFmWGrmynlCg/giphy.webp)
+
 ---
 
-_Apr282018 – Apr292018_
+_Apr282018 – Apr302018_
 
-Had to take two days off, because I needed to focus on my mental health. Will be back tomorrow. ♥
+Had to take three days off, because I needed to focus on my mental health. Will be back tomorrow. ♥
 
 ---
 
