@@ -2,6 +2,40 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D7 #100DaysOfCode // May022018**
+
+**resources**
+
+* Advanced CSS & Sass | Natours Project Part I
+  * `clip-path`
+  * animations with `@keyframes`
+  * `animation-fill-mode`
+* Advanced CSS & Sass | How CSS Works: A look behind the scenes
+
+  * the three pillars of good HTML & CSS
+  * overview
+  * CSS terminology
+  * how CSS is parsed (cascade & specificity, value processing, inheritance)
+
+**coding**
+
+* [Scribbles | Theme Toggler](https://codepen.io/miffili/full/LmLYLX/) for the course 'JavaScript & React for Developers'
+
+**other**
+
+* installed different packages for atom
+  * pigment
+  * minimap
+  * color-picker
+* installed chrome extension that displays .md-files in GitHub-style for preview
+
+**thoughts**
+Today was a CSS kinda day. 😊 I started with the Advanced CSS & Sass course and all starts to make sense now. But I still am more a fan of JavaScript, who shouts at you in different variants when something isn't working. With CSS, you often times don't even know, **what** is not working let alone **why**. And if not earlier, today it was obvious that I'm becoming a nerd – being happy about installing different packages in ATOM & still being stoked about my windows emoticon picker. 😇 I slowly understand the saying "developers are lazy". 😄
+
+» _5.5h_
+
+![Gif of Pusheen the Cat à la Nyan Cat running in space with a donut around her waist & a tri-color-trail.](https://i.giphy.com/media/gx54W1mSpeYMg/giphy.webp)
+
 ### **D6 #100DaysOfCode // May012018**
 
 **resources**
@@ -18,7 +52,7 @@ _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 **other**
 
 * Get Yo' Cook On
-  * redesigned whole applications
+  * redesigned whole application
   * sketched out user stories
   * decided to use reactstrap (based on bootstrap v4) instead of react-bootstrap
 
@@ -27,7 +61,7 @@ I'm back. 😄 After some necessary off days, I started slowly today. At the mom
 
 » _3h_
 
-![Pusheen the Cat sleeping in a pile of pillows, surrounded by a almost empty donut box, a console game pad & some an an open crisp bag.](https://i.giphy.com/media/JxFmWGrmynlCg/giphy.webp)
+![Gif of Pusheen the Cat sleeping in a pile of pillows, surrounded by a almost empty donut box, a console game pad & some an an open crisp bag.](https://i.giphy.com/media/JxFmWGrmynlCg/giphy.webp)
 
 ---
 
