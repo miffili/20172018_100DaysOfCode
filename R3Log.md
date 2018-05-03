@@ -2,6 +2,25 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D8 #100DaysOfCode // May032018**
+
+**resources**
+
+* React Fundamentals [#1](https://www.youtube.com/watch?v=ul0tRkeu5CE) & [#2](https://www.youtube.com/watch?v=b5UjDaWyUB8) by Tyler McGinnis
+* React official documentations
+
+**coding**
+
+* codewars
+  * [Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c)
+
+**thoughts**
+Well today was immediately off on the wrong foot. I slept in, then talked to my brother for over an hour. Had to collect my thoughts afterwards.. Then scalded three of my right hand's fingers while making lunch and had to cool them for over three hours, hence the lack of coding today. But after midnight, I'm gonna start D9. 😋
+
+» _2h_
+
+![Gif of Pusheen the Cat à la Nyan Cat running in space with a donut around her waist & a tri-color-trail.](https://i.giphy.com/media/gx54W1mSpeYMg/giphy.webp)
+
 ### **D7 #100DaysOfCode // May022018**
 
 **resources**
