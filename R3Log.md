@@ -19,7 +19,7 @@ Well today was immediately off on the wrong foot. I slept in, then talked to my 
 
 » _2h_
 
-![Gif of Pusheen the Cat à la Nyan Cat running in space with a donut around her waist & a tri-color-trail.](https://i.giphy.com/media/gx54W1mSpeYMg/giphy.webp)
+![Gif of Pusheen the Cat glitching](https://i.giphy.com/media/ktvFa67wmjDEI/giphy.webp)
 
 ### **D7 #100DaysOfCode // May022018**
 
