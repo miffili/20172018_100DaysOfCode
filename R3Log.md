@@ -2,6 +2,25 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D9 #100DaysOfCode // May042018**
+
+**coding**
+
+* Get Yo Cook On
+  * deleted Nav due to redesign
+  * switched from react-bootstrap to reactstrap
+  * updated all affected components
+  * tinkered a bit with the Bootstrap v4 Card component
+
+**thoughts**
+Because I drank a red bull for dinner, I immediately started D9 at midnight. 😅 Solid 2 hours of coding and I'm glad, I did it at night. Nothing there to distract me in any kind. The switch was fairly smooth.
+I revisited how to delete a npm package. As well as adding a commit via the vim editor. 😇
+Then I slept until noon and my whole day was totally wacked. 😄 Went to bed early to be fresh in the morning.
+
+» _2.5h_
+
+![Gif of Pusheen as a wizard cooking some green magic soup with her little helper.](https://cdn117.picsart.com/213112830000202.gif)
+
 ### **D8 #100DaysOfCode // May032018**
 
 **resources**
