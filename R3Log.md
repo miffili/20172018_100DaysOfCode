@@ -2,6 +2,26 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D10 #100DaysOfCode // May052018**
+
+**coding**
+
+* Get Yo Cook On
+  * added recipe collection in separate file
+  * added state to App
+  * hooked RecipeCard up with data via props
+  * experimented with different layout additions
+  * added type checking to RecipeCard & Landing
+  * deployed project
+
+**thoughts**
+As it was a fairly warm day today, I enjoyed the weather. 😇 But I managed to update the RecipeCard as I intended to do. Slowly I get in the flow of checking reactstrap for possible components as well as cross reference them with Bootstrap v4 itself. I really like the Card component it makes a lot super simple.
+Plus: the React docs are thorough & simultaneously to the point.
+
+» _2.5h_
+
+![Gif of Pusheen as a wizard cooking some green magic soup with her little helper.](https://media1.tenor.com/images/ea862c2c1781bb4233ef774f8dfe7f19/tenor.gif)
+
 ### **D9 #100DaysOfCode // May042018**
 
 **coding**
@@ -12,9 +32,13 @@ _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
   * updated all affected components
   * tinkered a bit with the Bootstrap v4 Card component
 
+**other**
+
+* learned how to add a commit message using the built in vim editor 😇
+
 **thoughts**
 Because I drank a red bull for dinner, I immediately started D9 at midnight. 😅 Solid 2 hours of coding and I'm glad, I did it at night. Nothing there to distract me in any kind. The switch was fairly smooth.
-I revisited how to delete a npm package. As well as adding a commit via the vim editor. 😇
+I revisited how to delete a npm package.
 Then I slept until noon and my whole day was totally wacked. 😄 Went to bed early to be fresh in the morning.
 
 » _2.5h_
