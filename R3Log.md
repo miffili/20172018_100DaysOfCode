@@ -2,6 +2,32 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D11 #100DaysOfCode // May062018**
+
+**resources**
+
+* JavaScript & React for Developers
+  * learned about yarn, Grunt & Gulp (definitely need to check that out more)
+  * revisited what React is
+  * revisited Component Lifecycle Methods
+  * revisited state & properties
+  * learned about presentational & container components
+
+**coding**
+
+* Get Yo Cook On
+  * sketched out modal layout
+  * added ingredients & preparation data to recipes.js
+  * added modal with recipe details
+
+**thoughts**
+Sometimes, I think I wouldn't do enough, especially on days I shift my 'work time' after lunch and take the morning off. But then again, I still have to prepare everything for an eventual move in the future, so I'm not not working.
+I'm super happy with the progress today. Especially the Get Yo Cook On is getting along nicely, if I say so myself. 😇 I get the hang of working in steps & working with an external library, in this case reactstrap, for the styling. I know, this part would take me too many hours otherwise.
+
+» _4h_
+
+![Gif of Pusheen looking cute, when sunglasses lower themselves on Pusheen's nose and a line saying "Deal with it" appears](https://media.giphy.com/media/5vrIMzUk6xHoI/giphy.gif)
+
 ### **D10 #100DaysOfCode // May052018**
 
 **coding**
