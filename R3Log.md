@@ -2,6 +2,23 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D12 #100DaysOfCode // May072018**
+
+**resources**
+
+* Advanced CSS & Sass | How CSS Works
+  * converting px to `rem`
+  * how CSS renders a website (the visual formatting model)
+  * CSS architecture, components & BEM
+  * implemented BEM in Natours project
+
+**thoughts**
+MELLOW MONDAY! 😄 I love the fact that Mondays are my Sundays. 🙂 I get to recap the prior week, plan out the week ahead & just relax. Nonetheless I finished the How it Works chapter today. And revisited the notes I took so far of CSS concepts.
+
+» _1.5h_
+
+![Gif of Eddie Murphy sipping on champagne at the beach in a light striped sweater – enjoying himself.](https://media.giphy.com/media/5xtDarqlsEW6F7F14Fq/giphy.gif)
+
 ### **D11 #100DaysOfCode // May062018**
 
 **resources**
