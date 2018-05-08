@@ -2,6 +2,22 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D13 #100DaysOfCode // May082018**
+
+**other**
+
+* read about software testing
+  * types of software testing (unit tests, integration tests, end-to-end tests)
+  * read through a tutorial of test driven development in JavaScript
+  * checked out different tools for testing in JavaScript (jest, mocha, jasmine)
+
+**thoughts**
+Unfortunately, I didn't feel that well today & had a hard time focusing. So I decided to check something off my to do list: software testing in JavaScript. 🙂 I think I will incorporate it in future projects, just to get the hang of it & get comfortable using different tools for testing. 😊
+
+» _1h_
+
+![Gif of Eddie Murphy as a large character pouring m&ms in his mouth](https://media.giphy.com/media/3o72F4AiJt2opESl44/giphy.gif)
+
 ### **D12 #100DaysOfCode // May072018**
 
 **resources**
