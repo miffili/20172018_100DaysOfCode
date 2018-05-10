@@ -2,6 +2,22 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D14 #100DaysOfCode // May102018**
+
+**coding**
+
+* Scribble | LinkedParticles
+  * sketched idea on paper
+  * started coding
+
+**thoughts**
+Admittedly, coding lately was more of a burden than something enjoyable for me. Not the act of coding itself, but choosing on what topics to concentrate. Do I learn a framework? Or another one? Am I learning the right one? How do I learn it in the most effective & maybe the fastest way? Should I already learn another language? How do I compensate the lack of an engineering degree? How do I earn money?
+Working with p5 again after such a long time.. and working on something purely for fun, was such a nice change. There are so many things, that are really important in the real world. But for me to keep being motivated & perform on a high level, I need to just do useless stuff from time to time. After all, I have to admit, that the projects I'm most proud of are the ones, I was totally enthusiastic about – the Bubble Machine & the redesigned Simon game. 😊 It's like [Simone Giertz said in her TED talk](https://www.youtube.com/watch?v=c0bsKc4tiuY), doing useless things helps overcoming performance anxiety. It's just about fun, not only for oneself, but also for others. 😇 Probably back to schedule tomorrow.
+
+» _1h_
+
+![Gif of Eddie Murphy & his friend in Coming to America. Sitting at a table in a bar, looking confused.](https://media3.giphy.com/media/p2UD9IADxi3Xa/giphy.gif)
+
 ### **D13 #100DaysOfCode // May082018**
 
 **other**
