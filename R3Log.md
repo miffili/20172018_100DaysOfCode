@@ -2,6 +2,31 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D1 #100DaysOfCode // May212018**
+
+**coding**
+
+* Note Application
+  * start with the course material
+  * added sidebar & sidebar tasks
+    * add note
+    * provide style for current note
+    * show current note in editor
+
+**thoughts**
+After my break, it feels really good to code again. Although, I have to admit, that I'm having my issues with focusing on one task at hand. I guess it's back to the good old pen&paper method, writing all thoughts down first & then work on the tasks – one by one. 😊
+
+» _4.5h_
+
+---
+
+_May112018 – May202018_
+
+Because I was in a rather bad place mentally, I allowed myself to take a thorough break. At some point, I just wrote the same goals/tasks for the day over & over again, without really accomplishing something. It all just felt like a big blur.
+After taking more than 2 days off, I restart the 3rd round, but will keep the progress so far in this log.
+
+---
+
 ### **D14 #100DaysOfCode // May102018**
 
 **coding**
