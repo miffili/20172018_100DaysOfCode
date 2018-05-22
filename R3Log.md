@@ -2,6 +2,25 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D2 #100DaysOfCode // May222018**
+
+**coding**
+
+* Note Application
+  * named app "SMPLnote"
+  * added editor & editor tasks
+    * update change for note title & text
+  * stored state data in `localStorage` of browser
+  * added function to delete note
+  * pushed project to github & deployed project
+
+» https://Miffili.github.io/smpl_note/
+
+**thoughts**
+Everything works, nothing works, everything works again, no that doesn't work. 😅 That sums pretty much up, how it was to work on the React note app. But I got it working except the list issue which is described in the README.md. I have to look at this at some point, checking where the mistake occurs. It's not a fatal error though. Lists just don't get saved in the simpleMDE. But enough for today. 😇
+
+» _5.5h_
+
 ### **D1 #100DaysOfCode // May212018**
 
 **coding**
