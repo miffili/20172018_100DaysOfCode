@@ -22,7 +22,7 @@ So for this Round 3 I wanna focus on a few points:
 ### Courses
 
 * [ ] finish [ES6 for Everyone](https://es6.io/) (already started in R2)
-* [ ] [JavaScript & React for Developers](https://www.udemy.com/js-and-react-for-devs/)
+* [x] [JavaScript & React for Developers](https://www.udemy.com/js-and-react-for-devs/)
 * [ ] [Learn Node](https://learnnode.com/)
 * [ ] [Advanced CSS & Sass](https://www.udemy.com/advanced-css-and-sass/)
 * [ ] [Become a Wordpress Developer](https://www.udemy.com/become-a-wordpress-developer-php-javascript/)
