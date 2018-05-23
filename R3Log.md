@@ -2,6 +2,24 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D3 #100DaysOfCode // May232018**
+
+**miscellaneous**
+
+* read about HTML `<meta>`-tags
+* checked out Facebook's Open Graph protocol http://ogp.me/
+* checked out the [Twitter dev docs](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started.html) for Twitter cards
+* updated portfolio a little
+* started to implement ogp data in portfolio
+* fought again with LinkedIn 😒, it won
+* updated some code in chuckyN & the weather app (one fetch error due to http/https & a missing parameter).
+
+**thoughts**
+Today was a awkward day, not really bad more on the confusing side of things. Maybe because of tomorrow's meeting. However, I worked on bits & pieces which would otherwise just rot on my to do list forever. 😅 I think, I will make this a weekly habit, just jot down all of those rather tiny tasks & dedicate half a day to get those things done & stay up to date.  
+Fixing a mistake in an old app showed me, that I've come a long way. I still like my code & could read it rather good. But I also saw a lot of things, I would not do anymore & I had the urge to refactor the code. But I kept it as it is, because I think it is a nice way to see, how I develop as a developer. And the freeCodeCamp projects are still snapshots of my level of knowledge at that time. 😇
+
+_2.5h_
+
 ### **D2 #100DaysOfCode // May222018**
 
 **coding**
