@@ -2,6 +2,19 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D4 #100DaysOfCode // May242018**
+
+**miscellaneous**
+
+* checked one point of my Explore JS list
+  * browsed a bit through the [MDN web docs: WebGL API](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+  * watched [The Coding Train's WebGL in p5.js](https://www.youtube.com/watch?v=nqiKWXUX-o8&list=PLRqwX-V7Uu6bPhi8sS1hHJ77n3zRO9FR_) playlist
+
+**thoughts**
+So.. I had some adulting to do in the morning. And a migraine struck in the afternoon (= loooooong nap 😴). After those kinds of days, there isn't that much happening, so I just read a bit in the MDN docs on a topic that's on my list for a while & watched the better part of the WebGL in p5.js playlist of The Coding Train.
+
+_1h_
+
 ### **D3 #100DaysOfCode // May232018**
 
 **miscellaneous**
