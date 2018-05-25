@@ -2,6 +2,24 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+---
+
+_May252018_
+
+I won't count today, but I still wanted to log, what happened.
+
+Yesterday morning, I met with two web developers in Rostock, one of them I've known loosely for more than 10 years. We talked a bit about what they needed from a frontend developer & about what I've already done. And agreed, that I would work for them on a freelance basis & they would let me know, when they'd have something for me.
+
+Well, today already came the call. And I have a fun little project. It's vanilla JS/HTML canvas & super fun.
+
+So today I worked on that assignment for _4hs_. It is in fact coding. But since I cannot really log, what I do as paid gigs, I will not count it in my official logs.
+
+But! It's a nice achievement to get paid to code. 😊 And that's definitely notable. (I'll wait for the official announcement once I got paid the first time though.😇)
+
+![Gif of a girl sitting in the dark in front of a computer in an oversize shirt doing a little happy dance before continuing to type.](https://media.giphy.com/media/3og0IT9dAZyMz3lXNe/giphy.gif)
+
+---
+
 ### **D4 #100DaysOfCode // May242018**
 
 **miscellaneous**
