@@ -2,6 +2,22 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D5 #100DaysOfCode // May262018**
+
+**miscellaneous**
+
+* tinkered a lot with the HTML `<canvas>`-tag
+  * coded a hexagon out of triangles
+  * coded a little Android symbol
+
+**thoughts**
+The refactoring for my clients involves changing the game characters in different logos. Because it's the weekend & I don't know, if it would be sufficient to just implement images in the canvas element or to rather code the symbols, I decided to do it in my freetime. It's a lot like p5.js, which gives me an advantage because I've already spent that much time working on my illustrations.. (And holy moly is the B.A. Baracus of the A-Team detailed..) 😅  
+Tomorrow, I'm gonna do the Apple logo, which is a bit more difficult, but putting the image as a background & layering the illustration on top, makes for a rather quick process.  
+If I find time, I will also translate it, so that all coordinated origin from the center of the canvas element. 😊  
+But for now it's bedtime.
+
+_2.5h_
+
 ---
 
 _May252018_
