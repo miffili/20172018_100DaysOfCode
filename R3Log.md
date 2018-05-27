@@ -2,6 +2,19 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D6 #100DaysOfCode // May272018**
+
+**miscellaneous**
+
+* kept tinkering with the HTML `<canvas>`-tag
+  * coded the Apple logo
+
+**thoughts**
+More extra work for the client project. But it is super fun, and I'm quickly getting the hang of coding those shape methods. 😊  
+In the end, the game didn't render the apple accurately, so I tried `drawImage()`, both with the png & the svg. Unfortunately every solution looks super pixely, but in the end, Pacman is an oldschool game. 😅 I implemented all solutions, so that the client can have a look for himself.
+
+_1.5h_
+
 ### **D5 #100DaysOfCode // May262018**
 
 **miscellaneous**
@@ -30,7 +43,7 @@ Well, today already came the call. And I have a fun little project. It's vanilla
 
 So today I worked on that assignment for _4hs_. It is in fact coding. But since I cannot really log, what I do as paid gigs, I will not count it in my official logs.
 
-But! It's a nice achievement to get paid to code. 😊 And that's definitely notable. (I'll wait for the official announcement once I got paid the first time though.😇)
+But! It's a nice achievement to get paid to code. 😊 And that's definitely notable. (I'll wait with the official announcement once I got paid the first time though.😇)
 
 ![Gif of a girl sitting in the dark in front of a computer in an oversize shirt doing a little happy dance before continuing to type.](https://media.giphy.com/media/3og0IT9dAZyMz3lXNe/giphy.gif)
 
