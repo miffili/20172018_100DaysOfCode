@@ -2,6 +2,22 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D7 #100DaysOfCode // May282018**
+
+**resources**
+
+* started learning Vue.js with
+  * [the official Vue.js guide](https://vuejs.org/v2/guide/)
+  * [Vue.js 2 – The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide) on udemy
+  * [Learn Vue 2: Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step)
+
+**thoughts**
+Today, I started to learn Vue.js. Mainly because I want to be prepared as it is the main JS framework my new clients use, but also because it was on my list for a while now. I will check out the mentioned resources a bit more & hope they will give me as much knowledge as a Wes Bos' course. 😋 But to be fair, the course on udemy seems as thorough as Jonas Schmedtmann's courses, which is a really good sign. 😊
+Also, today I declared my business as a freelance web developer. 😇 Now, all that is left to do is writing the first bill (once it's time to do so) to make it legit. 😜  
+Oh, in an unrelated note, I tried out Affinity Photo for Windows & I'm thrilled. It's a one-time purchase, incl. updates, beautiful interface, provides all the functions Adobe Photoshop does & comes with a 10-day trial. 😊 Good day.
+
+_1.5h_
+
 ### **D6 #100DaysOfCode // May272018**
 
 **miscellaneous**
