@@ -2,6 +2,20 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D8 #100DaysOfCode // May292018**
+
+**coding**
+
+* special scribble for someone's birthday tomorrow
+  * front pure css
+  * back mixed content
+
+**thoughts**
+Of course, the best ideas come like last minute. I went to the office today & had to fight a sunstroke back home. And now I have to work on that digital gift, so it's ready tomorrow. 😊 Definitely worth it, because it's for my favorite recruiter, but still. Last minute means working most of the night. 😋  
+But I will provide the link later this week, probably.
+
+_?h_
+
 ### **D7 #100DaysOfCode // May282018**
 
 **resources**
