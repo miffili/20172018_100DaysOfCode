@@ -2,6 +2,28 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D9 #100DaysOfCode // May302018**
+
+**coding**
+
+* finished the birthday card for my favorite recruiter
+  * front pure css
+  * back mixed content // hand written message
+* **$** coded my first Vue.js component
+  * set up the project with vue-cli
+  * checked out single file components, crash-course-style
+  * implemented a **select-field**, an **input-(number-)field**, a third party **range-field** (input- & range-fields are connected)
+  * added a button, that calculates something from the different inputs -> output displayed in console so far
+
+**thoughts**
+Okay, the card got a little out of control. 😅 At the latest it got obvious when I tried to do all the stars with one single div 6 a lot of box-shadows. 😄 But the birthday human was so happy, it was all worth it. all in all, with a messed up scale, fixing it, all the image editing, etc. it took me about 8h.  
+The afternoon was reserved for work, as seen above I will incorporate the work that I do with a little **$**-indicator, when it heavily involves self teaching & I can log it kind of anonymously. 😊 I really have to say, coming from React Vue's html-based template syntax & the directives are pretty funky. But it also is kinda tough to dive head first in a new framework & learn that unprepared by "learning by doing". I hope, I get to go through the courses I have a bit further. I'm much more confident, when I know where to look for answers.  
+On the plus side, I'm slowly starting to get the hang of switching between projects.
+
+PS: I tried to work on an improvised standing desk yesterday & this morning... and it is _SO_ good. I get so much more done. Plus a structured dumbbell makes the best foot massage tool. 😊
+
+_8.5h_
+
 ### **D8 #100DaysOfCode // May292018**
 
 **coding**
@@ -14,7 +36,7 @@ _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 Of course, the best ideas come like last minute. I went to the office today & had to fight a sunstroke back home. And now I have to work on that digital gift, so it's ready tomorrow. 😊 Definitely worth it, because it's for my favorite recruiter, but still. Last minute means working most of the night. 😋  
 But I will provide the link later this week, probably.
 
-_?h_
+_4h_
 
 ### **D7 #100DaysOfCode // May282018**
 
