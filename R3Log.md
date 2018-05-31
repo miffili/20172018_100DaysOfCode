@@ -2,6 +2,21 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D10 #100DaysOfCode // May312018**
+
+**coding**
+* **$** worked on the first first Vue.js component from yesterday
+  * got feedback on the component
+  * added more elements (conditional rendering)
+  * learned how to extract a component & to set up props
+  * learned, wrote & used filters
+  * pairprogrammed with another dev to adapt the third party range-field -> decision in the end, switch components (to an underdog! 🎉)
+
+**thoughts**
+I have to admit, I was a bit nervous to show, what I coded together. 😅 But I think, it was okay for my first Vue component. I learned a lot today by coding in the office, although the afternoon is usually not a good time for me to work focused. There is definitely still a ton to learn & set up. But I LOVE IT! ❤ It's exactly why I started this journey in the beginning. The constant "I don't understand that! I need to learn that!".. It's just paired with an urgent desire of "please just let me check the docs more thoroughly, so I don't need to look every itty bitty up". But that's okay I guess. Just another soft skill I need to learn – "to be comfortable with discomfort". 😊
+
+_4h_
+
 ### **D9 #100DaysOfCode // May302018**
 
 **coding**
