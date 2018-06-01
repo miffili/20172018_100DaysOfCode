@@ -2,6 +2,19 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D11 #100DaysOfCode // June012018**
+
+**coding/research**
+* CSS
+  * tinkered a bit with styling of input elements
+  * read some CSS-Tricks articles about it
+
+**thoughts**
+What a day today. Again as almost every day this week today was an 30°C day here in Rostock. After pushing myself to the limits the last days (regarding the heat), I started my day on the balcony just eating a late breakfast & enjoying the morning sun with my furbabies. Just watching them soaking all of the smells & sounds, enjoying the breeze always makes my day. By lunch, the thermometer in my room showed 26°C, so I decided to just clean my place & rearrange everything. Withing this week I tried to work in a standing poition twice & it totally changed the way I worked. These past months of sitting took a toll on me. So I rearranged my room & build a solution to switch from sitting to standing without much hustle. 🙂
+In between cleaning & furniture moving times, did I menttion the 30°C 😅, I checked out some articles on how to style input elements & tinkered a bit with a codepen project – but nothing fancy.
+
+_1h_
+
 ### **D10 #100DaysOfCode // May312018**
 
 **coding**
