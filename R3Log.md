@@ -2,28 +2,54 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D12 #100DaysOfCode // June052018**
+
+**coding**
+
+* **$** finished the Vue.js component
+  * switched the third party component
+  * styled the `input[type='range']`-element
+  * added conditional styles with JavaScript 😇
+
+**thoughts**
+After some tough days, I got to go to the office today. The design was finalized, so I got to work on the styling of the input element, which was admittedly not that easy, especially because the component has to be supported by all major browsers. No grid, no flex, no fancy stuff – it's a rollercoaster between "super fun challenge" & "f#\*k u CSS!".. 😅
+But with the world wide web & the help of my clients/colleagues we managed to get the component done. And I'm proud – it's accessible, touch considered & supported by the majority of browsers.  
+I'm really glad, I get the chance to learn so much in such a fun environment.
+
+_8h_
+
+---
+
+_June022018 – June042018_
+
+Needed to take a break. Every day my to do list was full of tasks, but every day I just slept in, binge-watched old shows & just cuddled with the fur babies. I guess, sometimes those days are inevitable & I figured I would just get through them & rest, than to try to push me & loose my remaining energy. 😬
+
+---
+
 ### **D11 #100DaysOfCode // June012018**
 
 **coding/research**
+
 * CSS
   * tinkered a bit with styling of input elements
   * read some CSS-Tricks articles about it
 
 **thoughts**
-What a day today. Again as almost every day this week today was an 30°C day here in Rostock. After pushing myself to the limits the last days (regarding the heat), I started my day on the balcony just eating a late breakfast & enjoying the morning sun with my furbabies. Just watching them soaking all of the smells & sounds, enjoying the breeze always makes my day. By lunch, the thermometer in my room showed 26°C, so I decided to just clean my place & rearrange everything. Withing this week I tried to work in a standing poition twice & it totally changed the way I worked. These past months of sitting took a toll on me. So I rearranged my room & build a solution to switch from sitting to standing without much hustle. 🙂
-In between cleaning & furniture moving times, did I menttion the 30°C 😅, I checked out some articles on how to style input elements & tinkered a bit with a codepen project – but nothing fancy.
+What a day today. Again – as almost every day this week – today was an 30°C day here in Rostock. After pushing myself to the limits the last days (regarding the heat), I started my day on the balcony just eating a late breakfast & enjoying the morning sun with my fur babies. Just watching them soaking all of the smells & sounds, enjoying the breeze always makes my day. By lunch, the thermometer in my room showed 26°C, so I decided to just clean my place & rearrange everything. Within this week I tried to work in a standing position twice & it totally changed the way I worked. These past months of sitting took a toll on me. So I rearranged my room & build a solution to switch from sitting to standing without much hustle. 🙂
+In between cleaning & furniture moving times, did I mentioned the 30°C 😅, I checked out some articles on how to style input elements & tinkered a bit with a codepen project – but nothing fancy.
 
 _1h_
 
 ### **D10 #100DaysOfCode // May312018**
 
 **coding**
-* **$** worked on the first first Vue.js component from yesterday
+
+* **$** worked on the first Vue.js component from yesterday
   * got feedback on the component
   * added more elements (conditional rendering)
   * learned how to extract a component & to set up props
   * learned, wrote & used filters
-  * pairprogrammed with another dev to adapt the third party range-field -> decision in the end, switch components (to an underdog! 🎉)
+  * pair-programmed with another dev to adapt the third party range-field -> decision in the end, switch components (to an underdog! 🎉)
 
 **thoughts**
 I have to admit, I was a bit nervous to show, what I coded together. 😅 But I think, it was okay for my first Vue component. I learned a lot today by coding in the office, although the afternoon is usually not a good time for me to work focused. There is definitely still a ton to learn & set up. But I LOVE IT! ❤ It's exactly why I started this journey in the beginning. The constant "I don't understand that! I need to learn that!".. It's just paired with an urgent desire of "please just let me check the docs more thoroughly, so I don't need to look every itty bitty up". But that's okay I guess. Just another soft skill I need to learn – "to be comfortable with discomfort". 😊
