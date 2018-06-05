@@ -46,4 +46,4 @@ _**For the next 100 days, I will code at least for 1 hour each day**_
 
 1.  Everything code related counts, listening to relevant podcasts, having fun with creative coding, reading books, docs & articles, and actual coding itself.
 2.  I will keep [logging](R3Log.md) my progress daily & provide updates on my [Twitter account](https://twitter.com/KlaraMiffili).
-3.  My health is my top priority. So if for whatever reason I might need a break, I will take it. But I won't take more than two days off in a row or else the challenge is lost. 🙂
+3.  My health is my top priority. So if for whatever reason I might need a break, I will take it. (I try to not take more than three days off in a row, but in the end I will listen to my body/ mind, if it needs to recharge). 🙂
