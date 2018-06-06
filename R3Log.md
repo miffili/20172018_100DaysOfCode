@@ -2,6 +2,23 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D13 #100DaysOfCode // June062018**
+
+**other**
+
+* **$** new project **Vue.js form widget**
+  * did some research/inspiration hunt
+  * designed the component in Figma
+  * checked out [vee-validate](https://baianat.github.io/vee-validate/) for form validation
+* Vue.js range component
+  * pair-programmed with my mentor to fix some touch device issues
+
+**thoughts**
+Afternoon in the office. Got a new project as the deadline is a bit too close for the first project. First challenge today: estimate the needed time to complete the task. 😳 Well, I estimated almost within the offered range for the client. Lets see, if I can step up my newbie game. 😅 My mentor believes in me, so I guess I should too.  
+On a sidenote, after learning by myself for several months & rare occasions of meeting friends/shopping for groceries, biking the almost 9km to the office is a nice change, but also super exhausting now in the beginning. Plus here in Northern Germany while biking you usually have headwind, no matter the current direction. 😅
+
+_3.5h_
+
 ### **D12 #100DaysOfCode // June052018**
 
 **coding**
