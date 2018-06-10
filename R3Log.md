@@ -2,18 +2,41 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+---
+
+_June102018_
+
+Somehow, my energy levels are really low at the moment. This week, I'm gonna take some time to work on my time management & see where time monsters are hiding. 😋
+
+---
+
+### **D15-16 #100DaysOfCode // June082018 - June092018**
+
+**resources**
+
+* Advanced CSS & Sass
+  * set up my local system to work with Sass / SCSS
+  * learned about using variables, nesting, mixins, extends & functions
+
+**thoughts**
+Learning all things basic about SCSS & so far, I really like it. It definitely helps clean up CSS. 😊
+
+_2h_
+
 ### **D14 #100DaysOfCode // June072018**
 
 **other**
 
 * **$** new project **Vue.js form widget**
+
   * finished the screen designs of the component in Figma
-  
+
 **resources**
- 
+
 * Advanced CSS & Sass
+
   * learned about Sass & its basics
-  
+
 **coding**
 
 * **$** coded a function which takes the current date & returns a response depending on the office hours
