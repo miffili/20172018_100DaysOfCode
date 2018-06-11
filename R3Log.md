@@ -2,6 +2,29 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D17 #100DaysOfCode // June112018**
+
+**other/coding**
+
+* **$** Vue.js form widget
+
+  * familiarized myself with the given resources (vee-validate, et al)
+  * set up project
+  * coded first element
+
+**resources**
+
+* Advanced CSS & Sass
+
+  * converted existing CSS code in SCSS
+  * implemented CSS architecture (abstracts, base, components, etc.)
+
+**thoughts**
+After not feeling well in the morning, I started with the Advanced CSS course today. Sass is really fun, a bit overkill for a smaller project, but definitely worth learning.  
+In the evening, I started with the coding part of the Vue component after checking out all the resources that were given to me for this project. I set up the project & finished the first element of the widget. ✌🙂
+
+_2.5h_
+
 ---
 
 _June102018_
