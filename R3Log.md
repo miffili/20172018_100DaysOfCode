@@ -2,6 +2,21 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D18 #100DaysOfCode // June122018**
+
+**coding**
+
+* **$** Vue.js form widget
+
+  * coded two of the three screen designs (mark up & styling)
+  * prepared one
+
+**thoughts**
+Moving through honey.. 🍯 I guess, as long as I'm moving forward, all is well. But it sucks, that everything I do at the moment is more puzzling together than understanding & using.  
+Today even centering without CSS grid was a challenge.. 😔 I'm back to the feeling, that all the code I'm currently writing is just a big pile of 💩.
+
+_4h_
+
 ### **D17 #100DaysOfCode // June112018**
 
 **other/coding**
