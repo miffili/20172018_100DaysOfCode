@@ -2,6 +2,52 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D21 #100DaysOfCode // June182018**
+
+**coding**
+
+- **$** branding of a HTML5 canvas Pacman game
+
+  - added code to draw the logo in every direction
+  - added level difficulties
+  - tried to add some sort of "win functionality", but I'm uninspired as to what that could be (after some digging I found the sections of code it could be implemented)
+
+**other**
+
+- checked out CraftCMS as a CMS for bigger clients who want to maintain their site to a certain degree (it's a technology my clients work with, & I like to be prepared 😊)
+
+**thoughts**
+What a rocky third round. 😇 After Kitten's surgery, she needed a lot of attention & care. At least now I know, what it means to live like a cat (eating & sleeping & cuddling all day. 🐾)  
+Today I took an hour and a half to look at CraftCMS & to watch how to set up a simple blog with it.  
+Plus I somewhat finished the branded Pacman game as an easter egg for a client's website.  
+Now, I will check out some techs, that I'll need for my new assignment tomorrow & then go to bed, because I wanna be in the office early tomorrow.
+
+_5h_
+
+---
+
+_June152018 – June172018_
+
+Another gap. 😅 This time, I focused on the recovery of my little Ginger Kitten. After all, I decided to let her get neutered.  
+So three days full of cuddling, sleeping, grooming & caring. 🐾
+
+---
+
+### **D20 #100DaysOfCode // June142018**
+
+**coding**
+
+- **$** Vue.js form widget ( pair programming with the chef)
+
+  - added animations to the main parts
+  - refactored CSS
+  - added responsiveness
+
+**thoughts**
+All the people in the office (shared space of three companies) barbecued together. After that my boss & I fixed some things on the component & added fancy stuff. 🙂 After that I picked up my Ginger kitten from the vet after her surgery.
+
+_1.5h_
+
 ### **D19 #100DaysOfCode // June132018**
 
 **coding**
