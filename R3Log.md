@@ -2,6 +2,39 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D22 #100DaysOfCode // June192018**
+
+**coding**
+
+- **$** new assignment **implementation of a design system**
+
+  - set up project
+  - started to code elements (buttons, tooltips, etc.)
+
+**research**
+
+- read about
+  - [How to construct a design system](https://medium.freecodecamp.org/how-to-construct-a-design-system-864adbf2a117)
+  - [How to design systems of components](https://uxdesign.cc/atomic-design-how-to-design-systems-of-components-ab41f24f260e)
+- **$** informed myself about patternlab.io
+
+**$ other**
+
+- got a quick briefing of an upcoming project (tech: CraftCMS, tailwind.css, scss)
+- got feedback for the rebranded pacman & some follow-up tasks 😊
+
+**thoughts**
+Work, work, work, work, work, work... 🎶 Hihi. Today was a day full of different work things. All about CSS. With the heavy focus on CSS at work, I decided to set also a focus on CSS outside of work. But I will never neglect my beloved JavaScript. 😊 It's just something, I realized in the past few days. Implementing a design, I had envisioned was always fun, but I couldn't imagine how it would be, when working in bigger teams. Now, I get all kinds of experiences what needs to be considered when writing CSS.  
+I already have an idea, how I could set a focus on it. 🙂  
+I'm still working on the Pacman, which luckily is based on HTML5 canvas, which means a ton of Vanilla JS. 😊  
+And the upcoming project, which sets a focus on CraftCMS, a really sophisticated CMS.. I can't wait to get started on this one.
+
+I never thought, I would really get in the flow of working on different projects around the same time, but it's super fun. And one of my biggest concerns, always, that it would get boring at some point, is basically non-existing within this business.
+
+PS: The kitten is still very much attached to me & I'm writing this, half-lying/half-sitting with her on my belly.
+
+_7h_
+
 ### **D21 #100DaysOfCode // June182018**
 
 **coding**
