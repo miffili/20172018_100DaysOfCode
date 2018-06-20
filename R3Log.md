@@ -2,6 +2,24 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D23 #100DaysOfCode // June202018**
+
+**coding**
+
+- **$** **implementation of a design system**
+
+  - coded more of the elements
+  - set up patternlab with my colleague
+  
+- **$** coded a (kinda hacky) solution for a design specification
+
+**thoughts**
+Hm... today.. too much & not of the good kind. But I will just leave this here... 
+[» 😶 🔫](https://thecooperreview.com/non-threatening-leadership-strategies-for-women/)  
+\[Maybe I just had a bad day?]
+
+_5h_
+
 ### **D22 #100DaysOfCode // June192018**
 
 **coding**
