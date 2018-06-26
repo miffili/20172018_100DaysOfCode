@@ -2,6 +2,38 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D26-27 #100DaysOfCode // June252018 - June262018**
+
+**coding/other**
+
+- **$** implementation of a design system
+  - dug a little deeper, how to connect pattern lab with an external style guide
+  - set up local pattern lab & style guide repos & connected the two through a gulp task (needs further exploring, but the basic structure is set up)
+- **$** coded a Vanilla JS accordion for another project
+- **$** made first contact with CraftCMS & pushed some content in different projects
+
+_8h_
+
+---
+
+_June232018 – June242018_
+
+Had a bad weekend. Felt really sick & just watched all the things. At the moment it really is just living from day to day. 🙂 Maneuvering through rough waters. But that's just life, right? The ups & downs. 😇
+
+---
+
+### **D24-25 #100DaysOfCode // June212018 - June222018**
+
+**coding/other**
+
+- **$** implementation of a design system
+  - moved all of the code in the actual project
+  - researched possibilities to implement JavaScript into pattern lab
+  - researched how to extract/export style guide from pattern lab
+  - gave feedback to project leader
+
+_5.5h_
+
 ### **D23 #100DaysOfCode // June202018**
 
 **coding**
@@ -10,11 +42,11 @@ _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
   - coded more of the elements
   - set up patternlab with my colleague
-  
+
 - **$** coded a (kinda hacky) solution for a design specification
 
 **thoughts**
-Hm... today.. too much & not of the good kind. But I will just leave this here... 
+Hm... today.. too much & not of the good kind. But I will just leave this here...
 [» 😶 🔫](https://thecooperreview.com/non-threatening-leadership-strategies-for-women/)  
 \[Maybe I just had a bad day?]
 
