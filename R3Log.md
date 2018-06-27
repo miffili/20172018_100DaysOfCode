@@ -2,6 +2,23 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D28 #100DaysOfCode // June272018**
+
+**coding/research/other**
+
+- **$** new assignment **transfer website from Contao to CraftCMS**
+
+  - research needs of website (section types, functions, etc.)
+  - installed CraftCMS on the workstation & set up project with internal docs
+  - got a crash course in CraftCMS structure & tailwind.css
+  - installed first plugins, added first structures & elements, coded my first template-elements
+
+**thoughts**
+Today something clicked in me – well, I knew it already, but haven't experienced it in that way – that being a developer doesn't mean necessarily coding all day. It took me an hour to work through the old system, I am not familiar with & researching how the new system is structured. After that I had to set up something, as well unfamiliar to me, again a few hours. In the end, my boss went through the initial process with me. All was new today, all was somewhat researching & "painting by numbers", at times it was "What kind of error does the terminal show now" – and all of that in a new OS (linux).  
+But actually that exactly is why I wanted to become a developer in the first place – to be challenged again & again & again. In development it's rarely the case that something is really static. And I love, that I get to learn so much in such a small environment in the beginning.
+
+_4.5h_
+
 ### **D26-27 #100DaysOfCode // June252018 - June262018**
 
 **coding/other**
