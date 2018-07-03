@@ -2,6 +2,39 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D29-30 #100DaysOfCode // July022018 - July032018**
+
+**coding/other**
+
+- **$** transfer website from Contao to CraftCMS
+
+  - set up project, the default site with different entry types, fields & properties
+  - populated the database with about 90% of the content (text & files) to get started with the styling tomorrow
+
+**ressources**
+
+- [Introduction to Compiling Tailwind CSS](https://www.youtube.com/watch?v=xZmu4pCWckQ&list=PLylMDDjFIp1Ak26wmmdsUOMo1toRUFZWX)
+- [Introduction to Tailwind CSS](https://www.youtube.com/watch?v=_SglEZKFZxY&list=PLylMDDjFIp1Dt5hWKHPIHtdF2GFAS8Ak9)
+
+**thoughts**
+I'm so stoked to get started with this new stack. It's very specific, but I love the "design system" approach of Tailwind & Craft is such a flexible CMS, it blows my mind, even though I fairly know any other. Up until now it was a lot of set up work & diligence work, but I don't mind. That way, I don't have to guess, what different layouts will look like.  
+Tomorrow will be crazy, I prepared a little by watching the mentioned playlists, but additionally I will work with Twig as a template language for the first time. At least it'll be coding all day tomorrow. 😊
+
+_11h_
+
+---
+
+_June282018 – July012018_
+
+I had the best reward experience EVER!! 😊 Since I couldn't afford a reward prior & made my 13-week goal (earning my money coding 😉), I spontaneously ordered a ticket for OnTheRunII in Berlin & it was the best decision ever. I partied so hard.  
+The day after I spent with the birthday kid (my brother Paul), we went to the Computerspielemuseum in Berlin, made strawberry cake, ordered burgers, watched SGDQ & played stupid party games.  
+Saturday was "homecoming"-day. In the evening I watched the most entertaining 3v3 Mario Maker run on SGDQ.  
+Sunday was for planning. The year is half way through 😉..
+
+All in all a pretty amazing long weekend, I must say. 😋
+
+---
+
 ### **D28 #100DaysOfCode // June272018**
 
 **coding/research/other**
