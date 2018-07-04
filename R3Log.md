@@ -2,6 +2,25 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D31 #100DaysOfCode // July042018**
+
+**coding/other**
+
+- **$** transfer website from Contao to CraftCMS
+
+  - solved a few problems around the whole work process on my workstation, just a few 😊
+  - styled the main sections / page with Tailwind CSS
+  - coded the footer template & started with the styling
+
+**reading**
+
+- a german book about CSS3 from 2014 called "CSS3 – Die neuen Features für fortgeschrittene Webdesigner" by [Florence Maurice](https://maurice-web.de/) [ENG: The new features for advanced web designer]
+
+**thoughts**
+I'm still struggling to bring somewhat of a structure in my day. It is not really satisfying for me to _just work_ in a normal day. And it's still pretty chaotic, the workstation gets set up one problem at a time, which obviously takes time. I miss getting into a flow state of work. And my back hurts.. and I needed to take public transportation today, because my bike gets fixed so it's a smooth ride again. 😇 and I'm tired.. mimimimimi.. okay, enough whining. .o(Are these effects of the change of diet already.. 🤔) Tomorrow full force coding. 😊
+
+_9.5h_
+
 ### **D29-30 #100DaysOfCode // July022018 - July032018**
 
 **coding/other**
