@@ -2,6 +2,27 @@
 
 _Wanna start at D1? [Go ahead](#d1-100daysofcode--apr232018)_
 
+### **D32 #100DaysOfCode // July052018**
+
+**coding/other**
+
+- **$** transfer website from Contao to CraftCMS
+
+  - templated & styled one sidebar
+  - added & styled the top nav
+  - templated & styled the accordion
+
+**read**
+
+- again the german book about CSS3 from 2014 called "CSS3 – Die neuen Features für fortgeschrittene Webdesigner" by [Florence Maurice](https://maurice-web.de/) [ENG: The new features for advanced web designer]
+
+**thoughts**
+YESS!! 🙌 Finally got into that flow state again, just coding away. What a nice day in the office. Got a lot done.  
+Tomorrow I'm gonna get my hands dirty with some funky logic for the sidebar nav in twig & I'm gonny tackle the Craft channel, I think. Or maybe the nav search. Or maybe the form sections. Probably not the form sections though. 😄  
+But it's really fun. And I can't wait to dive into the Craft CMS course over the weekend so I get a better fundamental understanding of Craft. 😇
+
+_6.5h_
+
 ### **D31 #100DaysOfCode // July042018**
 
 **coding/other**
