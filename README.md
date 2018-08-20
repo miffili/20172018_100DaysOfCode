@@ -1,14 +1,23 @@
 # my100DaysOfCode • Round 3
 
+## The end... 😅
+
+That didn't work out as planned. This repository had the purpose of documenting my journey to become a developer. To be honest. I reached that milestone in May this year.
+
+Plus, all the different things I do within a day are all over the place. I'm gonna start a new hashtag, which I feel is more appropriate & more of a manageable challenge for me... 
+
+----
+
 Well, I guess it's like they say:
 
 > Third time's a charme.
 
 _Start date 3rd try:_ July 24 2018
+_End date:_ August 20 2018
 
 ## Bucket list
 
-TBA
+...
 
 ### Courses
 
