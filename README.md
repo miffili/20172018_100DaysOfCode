@@ -6,6 +6,8 @@ That didn't work out as planned. This repository had the purpose of documenting 
 
 Plus, all the different things I do within a day are all over the place. I'm gonna start a new hashtag, which I feel is more appropriate & more of a manageable challenge for me... 
 
+If you want to follow along: [Check out the #100DaysOfGit Repo](https://github.com/Miffili/100DaysOfGit)
+
 ----
 
 Well, I guess it's like they say:
